@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer in the [Embodied Visualisation (EmVis)](https://www.monash.edu/it/hcc/embodied-visualisation){: .no-underline}   Research Group at Monash University and an early-career researcher in Human–Computer Interaction (HCI). My research is situated at the intersection of Immersive Analytics, spatial cognition, and applied artificial intelligence (AI). 
+I am a Lecturer in the [Embodied Visualisation (EmVis)](https://www.monash.edu/it/hcc/embodied-visualisation){: .no-underline}   Research Group at Monash University and an early-career researcher in Human-Computer Interaction (HCI). My research is situated at the intersection of Immersive Analytics, spatial cognition, and applied artificial intelligence (AI). 
 
 My research focuses on the design and evaluation of novel interaction techniques for immersive environments, with particular emphasis on human-in-the-loop systems and the integration of AI methods into immersive analytics. I lead and collaborate on a range of research projects that apply these approaches across multiple domains, including digital health, simulation-based training and education, and smart manufacturing.
 
