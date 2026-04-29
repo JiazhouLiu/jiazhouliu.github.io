@@ -95,23 +95,19 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
 <div class="selected_publication">
 
   <div class="selected-publication-image">
-    <img src="/images/publications/mariochart.jpg" alt="MarioChart publication preview">
+    <img src="/images/publications/Lang_Paper.PNG" alt="Participant performing the task with interface in VR headset">
   </div>
 
   <div class="selected-publication-body">
     <div class="selected-publication-main">
       <h3 class="selected-publication-title">
-        <a href="/publications/mariochart/">
-          MarioChart: Autonomous Tangibles as Active Proxy Interfaces for Embodied Casual Data Exploration
+        <a href="/publications/#/">
+          Effects of interface layouts on cognitive performance for pedicle screw placement simulator in immersive environments
         </a>
       </h3>
 
       <p class="selected-publication-summary">
-        We introduce the notion of an Active Proxy interface, i.e. tangibles as proxies for
-        a physical data referent, supporting interaction through active manipulation.
-        We realise an active proxy interface system for data visualisation, MarioChart,
-        using robot carts relocating themselves on a tabletop, e.g., to align with their
-        data referents in a map or other visual layout.
+        This work investigates how view layout design in immersive VR affects performance in complex medical procedures such as pedicle screw placement, which require precise hand–eye coordination and multi-angle spatial understanding. Through an experiment with 27 participants, the study shows that layout choices significantly influence task efficiency and visual search behaviour, with vertically arranged views on the left reducing response time. The findings provide practical design guidelines for VR simulators that integrate manual interaction with multiple perspectives.
       </p>
 
       <p class="selected-publication-type">
@@ -119,27 +115,21 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
       </p>
 
       <div class="selected-publication-tags">
-        <span>chi</span>
-        <span>dashboard</span>
-        <span>scale model</span>
+        <span>ijhcs</span>
+        <span>empirical study</span>
+        <span>interface layout</span>
         <span>situated visualization</span>
-        <span>tangible</span>
-        <span>active proxy</span>
+        <span>cognitive performance</span>
       </div>
     </div>
 
     <div class="selected-publication-meta">
       <p>
-        Dai, S., Satriadi, K. A., Smiley, J., Ens, B., Besançon, L., &amp; Dwyer, T.
-        (2026, April). MarioChart: Autonomous Tangibles as Active Proxy Interfaces for
-        Embodied Casual Data Exploration. In <em>Proceeding 2026 CHI Conference on Human
-        Factors in Computing Systems</em>.
+        Qin, L., Satriadi, K. A., <strong>Liu, J.<\strong>, Zhan, Y., Shao, J., Liu, P., ... & Liu, Y. (2025). Effects of interface layouts on cognitive performance for pedicle screw placement simulator in immersive environments. <em> International Journal of Human-Computer Studies</em>, 103650.
       </p>
 
       <div class="selected-publication-links">
-        <a href="/papers/mariochart.pdf">PDF</a>
-        <a href="#">DOI</a>
-        <a href="/publications/mariochart/">Project page</a>
+        <a href="https://doi.org/10.1016/j.ijhcs.2025.103650">DOI</a>
       </div>
     </div>
   </div>
