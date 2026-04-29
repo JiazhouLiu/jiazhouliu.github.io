@@ -321,37 +321,73 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
 
 <div class="selected-publication">
   <div class="selected-publication-image">
-    <img src="/images/publications/teaser_datadancing.jpg" alt="hybrid prototype demonstrating interaction possibilities of the DataDancing design space for visualisation view management.">
+    <img src="/images/publications/TeaserCHI_GestureExplorer.png" alt="GestureExplorer supports immersive exploration of gesture data.">
   </div>
   <div class="selected-publication-body">
     <div class="selected-publication-main">
       <h3 class="selected-publication-title">
         <a href="/publications/#/">
-          DataDancing: An Exploration of the Design Space For Visualisation View Management for 3D Surfaces and Spaces
+          GestureExplorer: Immersive Visualisation and Exploration of Gesture Data
         </a>
       </h3>
       <p class="selected-publication-summary">
-        In this work, We encapsulate the possibilities for visualisation view management into a design space (called “DataDancing”). From this design space we extrapolate a variety of view management prototypes, each demonstrating a diferent combination of interaction techniques and space use. The prototypes are enabled by a full-body tracking system including novel devices for torso and foot interaction. We explore four of these prototypes, encompassing standard wall and table-style interaction as well as novel foot interaction, in depth through a qualitative user study. Learning from the results, we improve the interaction techniques and propose two hybrid interfaces that demonstrate interaction possibilities of the design space.
+        This paper presents the design and evaluation of GestureExplorer, an Immersive Analytics tool that supports the interactive exploration, classifcation and sensemaking with large sets of 3D temporal gesture data. GestureExplorer features 3D skeletal and trajectory visualisations of gestures combined with abstract visualisations of clustered sets of gestures. By leveraging the large immersive space aforded by a Virtual Reality interface our tool allows free navigation and control of viewing perspective for users to gain a better understanding of gestures.
       </p>
       <p class="selected-publication-type">
         <strong>Publication type:</strong> full paper
       </p>
       <div class="selected-publication-tags">
         <span>chi</span>
-        <span>view management</span>
-        <span>design space</span>
-        <span>immersive analytics</span>
+        <span>gesture elicitation study</span>
         <span>virtual reality</span>
-        <span>3D surfaces and spaces</span>
+        <span>immersive analytics</span>
       </div>
     </div>
     <div class="selected-publication-meta">
       <p>
-      <b>Liu, J.</b>, Ens, B., Prouzeau, A., Smiley, J., Nixon, I.K., Goodwin, S. and Dwyer, T., 2023, April. Datadancing: An exploration of the design space for visualisation view management for 3d surfaces and spaces. <em>In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-17)</em>.
+      Li, A., <b>Liu, J.</b>, Cordeil, M., Topliss, J., Piumsomboon, T. and Ens, B., 2023, April. Gestureexplorer: Immersive visualisation and exploration of gesture data. <em>In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-16)</em>.
       </p>
       <div class="selected-publication-links">
-        <a href="https://www.researchgate.net/profile/Jiazhou-Liu/publication/368759959_DataDancing_An_Exploration_of_the_Design_Space_For_Visualisation_View_Management_for_3D_Surfaces_and_Spaces/links/63f8ae450cf1030a564b86a9/DataDancing-An-Exploration-of-the-Design-Space-For-Visualisation-View-Management-for-3D-Surfaces-and-Spaces.pdf">PDF</a>
-        <a href="https://doi.org/10.1145/3544548.3580827">DOI</a>
+        <a href="academia.edu/download/101845545/3544548.pdf">PDF</a>
+        <a href="https://doi.org/10.1145/3544548.3580678">DOI</a>
+        <a href="https://youtu.be/srKzgtYILgA?si=KqrLjG65Zgw1flwn">Video</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="selected-publication">
+  <div class="selected-publication-image">
+    <img src="/images/publications/TeaserCHI_GestureExplorer.png" alt="GestureExplorer supports immersive exploration of gesture data.">
+  </div>
+  <div class="selected-publication-body">
+    <div class="selected-publication-main">
+      <h3 class="selected-publication-title">
+        <a href="/publications/#/">
+          GestureExplorer: Immersive Visualisation and Exploration of Gesture Data
+        </a>
+      </h3>
+      <p class="selected-publication-summary">
+        This paper presents the design and evaluation of GestureExplorer, an Immersive Analytics tool that supports the interactive exploration, classifcation and sensemaking with large sets of 3D temporal gesture data. GestureExplorer features 3D skeletal and trajectory visualisations of gestures combined with abstract visualisations of clustered sets of gestures. By leveraging the large immersive space aforded by a Virtual Reality interface our tool allows free navigation and control of viewing perspective for users to gain a better understanding of gestures.
+      </p>
+      <p class="selected-publication-type">
+        <strong>Publication type:</strong> full paper
+      </p>
+      <div class="selected-publication-tags">
+        <span>chi</span>
+        <span>gesture elicitation study</span>
+        <span>virtual reality</span>
+        <span>immersive analytics</span>
+      </div>
+    </div>
+    <div class="selected-publication-meta">
+      <p>
+      Li, A., <b>Liu, J.</b>, Cordeil, M., Topliss, J., Piumsomboon, T. and Ens, B., 2023, April. Gestureexplorer: Immersive visualisation and exploration of gesture data. <em>In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-16)</em>.
+      </p>
+      <div class="selected-publication-links">
+        <a href="academia.edu/download/101845545/3544548.pdf">PDF</a>
+        <a href="https://doi.org/10.1145/3544548.3580678">DOI</a>
+        <a href="https://youtu.be/srKzgtYILgA?si=KqrLjG65Zgw1flwn">Video</a>
       </div>
     </div>
   </div>
