@@ -569,3 +569,7 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+.no-underline {
+  text-decoration: none;
+}
