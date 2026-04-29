@@ -233,14 +233,10 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: projects
     values:
-      layout: single
+      layout: single_project
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -255,8 +251,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -264,8 +258,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
   # _portfolio
   - scope:
       path: ""
