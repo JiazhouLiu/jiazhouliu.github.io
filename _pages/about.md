@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiazhou 'Joe' Liu | HCI Researcher"
+title: "Jiazhou 'Joe' Liu \| HCI Researcher"
 author_profile: true
 redirect_from: 
   - /about/
