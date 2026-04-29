@@ -21,18 +21,12 @@ We designed and implemented proof-of-concept prototypes that combine AI-assisted
 
 Feedback from industry stakeholders confirmed the strong potential of this approach to enable earlier risk detection, reduce reliance on manual inspections, improve reporting accuracy, and support workforce training, contributing to safer and more efficient high-rise construction practices.
 
-<hr style="margin-top: 2rem">
 <h2>Publication</h2>
 <ul>
-  <li>Liu, J., Rao, A. S., Ke, F., Dwyer, T., Tag, B., &amp; Delir Haghighi, P. (2024, October). AR-Facilitated Safety Inspection and Fall Hazard Detection on Construction Sites. In 2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 12-14). IEEE.</li>
+  <li><b>Liu, J.</b>, Rao, A. S., Ke, F., Dwyer, T., Tag, B., &amp; Delir Haghighi, P. (2024, October). AR-Facilitated Safety Inspection and Fall Hazard Detection on Construction Sites. In 2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 12-14). IEEE.</li>
 </ul>
 
 <h2 style="margin-bottom: 1rem">Building 4.0 CRC PhD Scholarship Project (#29)</h2>
 
 <p style="margin-top: 0.5rem">PhD candidate: Fucai Ke</p>
-
-<h4 style="margin-top: 0.5rem">Publications</h4>
-
-<ul>
-  <li>Liu, J., Rao, A. S., Ke, F., Dwyer, T., Tag, B., &amp; Delir Haghighi, P. (2024, October). AR-Facilitated Safety Inspection and Fall Hazard Detection on Construction Sites. In 2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 12-14). IEEE.</li>
-</ul>
+<p style="margin-top: 0.5rem"><a target="_blank" href="https://building4pointzero.org/wp-content/uploads/2026/02/Project-29-Final-Report_Final-public-version.pdf">Building 4.0 CRC Website</a></p>
