@@ -577,25 +577,25 @@ border-radius: .1em;
 }
 
 .featured-projects {
-  background: #fff;
-  border-radius: 20px;
-  padding: 1rem;
   margin: 0 0 2rem 0;
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
-}
-
-.featured-projects:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.14);
 }
 
 
 .featured-projects .project-row {
+  background: #fff;
+  border-radius: 20px;
+  padding: 1rem;
   display: flex;
   align-items: flex-start;
   gap: 1rem;
   margin-bottom: 1.5rem;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.featured-projects .project-row:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.14);
 }
 
 .featured-projects .project-image img {
