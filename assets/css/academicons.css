@@ -577,8 +577,19 @@ border-radius: .1em;
 }
 
 .featured-projects {
-  margin-top: 2rem;
+  background: #fff;
+  border-radius: 20px;
+  padding: 1rem;
+  margin: 0 0 2rem 0;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
+
+.featured-projects:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.14);
+}
+
 
 .featured-projects .project-row {
   display: flex;
@@ -626,8 +637,8 @@ border-radius: .1em;
 .selected-publication {
   background: #fff;
   border-radius: 20px;
-  padding: 1.5rem;
-  margin: 0 0 4rem 0;
+  padding: 1rem;
+  margin: 0 0 3rem 0;
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
