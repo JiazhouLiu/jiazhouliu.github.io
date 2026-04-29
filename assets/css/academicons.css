@@ -775,13 +775,13 @@ border-radius: .1em;
 }
 
 .student-meta {
-  margin: 0 0 0.35rem 0 !important;
-  font-size: 0.7rem !important;
+  margin: 0 0 0 0 !important;
+  font-size: 0.8rem !important;
   color: #555;
 }
 
 .student-description {
-  margin: 0.2rem 0 0 0;
+  margin: 1rem 0 0 0 !important;
   line-height: 1.7;
 }
 
