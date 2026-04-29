@@ -583,8 +583,8 @@ border-radius: .1em;
 .project-row {
   display: flex;
   align-items: flex-start;
-  gap: 2rem;
-  margin-bottom: 3.5rem;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 .project-image img {
