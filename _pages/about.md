@@ -107,7 +107,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
          We conducted seven interviews with ICU nurses to understand current handover practices. Preliminary findings reveal significant challenges, including high cognitive load from fragmented EMR data, the risk of technology hindering interpersonal rapport, and the loss of nuanced data during shift transitions. These issues lead to cognitive overload and information omission, particularly during fast-paced shift transitions when staff fatigue is prevalent. We explore the potential for in-situ Augmented Reality (AR) overlays and Artificial Intelligence (AI) agents to support ICU nurse handover by enabling hands-free information access, procedure guidance and documentation assistance.
       </p>
       <p class="selected-publication-type">
-        <strong>Publication type:</strong> workshop position paper.
+        <strong>Publication type:</strong> workshop position paper
       </p>
       <div class="selected-publication-tags">
         <span>chi</span>
@@ -144,7 +144,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
         This work investigates how view layout design in immersive VR affects performance in complex medical procedures such as pedicle screw placement, which require precise hand–eye coordination and multi-angle spatial understanding. Through an experiment with 27 participants, the study shows that layout choices significantly influence task efficiency and visual search behaviour, with vertically arranged views on the left reducing response time. The findings provide practical design guidelines for VR simulators that integrate manual interaction with multiple perspectives.
       </p>
       <p class="selected-publication-type">
-        <strong>Publication type:</strong> full paper.
+        <strong>Publication type:</strong> full paper
       </p>
       <div class="selected-publication-tags">
         <span>ijhcs</span>
@@ -180,7 +180,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
         In this work, we developed a design probe to explore how virtual reality can be used to integrate an expert-in-the-loop approach with SAM-Med3D for robust brain tumour segmentation. The imaging data of the brain and the segmented tumours are visualised in virtual reality, where experts can use analytical tools to review the segmentation. They can iteratively refine the results by selecting specific points for the AI to refine and improve the segmentation. In future work, we will collaborate with domain experts to evaluate and improve our prototype.
       </p>
       <p class="selected-publication-type">
-        <strong>Publication type:</strong> short paper.
+        <strong>Publication type:</strong> short paper
       </p>
       <div class="selected-publication-tags">
         <span>visualisation</span>
@@ -216,7 +216,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
         In this work, we provide the first AR study of spatial memory, comparing two different room settings with two different situated layouts of virtual targets on an abstract spatial memory task. We find that participants recall spatial patterns with greater accuracy and higher subjective ratings in a room with furniture compared to an empty room. Our findings lead to important design implications for mixed-reality user interfaces, particularly in information-rich applications like situated analytics and small-multiples information visualisation.
       </p>
       <p class="selected-publication-type">
-        <strong>Publication type:</strong> full paper.
+        <strong>Publication type:</strong> full paper
       </p>
       <div class="selected-publication-tags">
         <span>ismar</span>
@@ -233,6 +233,44 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
       <div class="selected-publication-links">
         <a href="https://www.researchgate.net/profile/Jiazhou-Liu/publication/384395912_Investigating_the_Effects_of_Physical_Landmarks_on_Spatial_Memory_for_Information_Visualisation_in_Augmented_Reality/links/66f6b3def599e0392fa8f1e3/Investigating-the-Effects-of-Physical-Landmarks-on-Spatial-Memory-for-Information-Visualisation-in-Augmented-Reality.pdf">PDF</a>
         <a href="https://doi.org/10.1109/ISMAR62088.2024.00043">DOI</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="selected-publication">
+  <div class="selected-publication-image">
+    <img src="/images/publications/teaser_datadancing.jpg" alt="hybrid prototype demonstrating interaction possibilities of the DataDancing design space for visualisation view management.">
+  </div>
+  <div class="selected-publication-body">
+    <div class="selected-publication-main">
+      <h3 class="selected-publication-title">
+        <a href="/publications/#/">
+          DataDancing: An Exploration of the Design Space For Visualisation View Management for 3D Surfaces and Spaces
+        </a>
+      </h3>
+      <p class="selected-publication-summary">
+        In this work, We encapsulate the possibilities for visualisation view management into a design space (called “DataDancing”). From this design space we extrapolate a variety of view management prototypes, each demonstrating a diferent combination of interaction techniques and space use. The prototypes are enabled by a full-body tracking system including novel devices for torso and foot interaction. We explore four of these prototypes, encompassing standard wall and table-style interaction as well as novel foot interaction, in depth through a qualitative user study. Learning from the results, we improve the interaction techniques and propose two hybrid interfaces that demonstrate interaction possibilities of the design space.
+      </p>
+      <p class="selected-publication-type">
+        <strong>Publication type:</strong> full paper
+      </p>
+      <div class="selected-publication-tags">
+        <span>chi</span>
+        <span>view management</span>
+        <span>design space</span>
+        <span>immersive analytics</span>
+        <span>virtual reality</span>
+        <span>3D surfaces and spaces</span>
+      </div>
+    </div>
+    <div class="selected-publication-meta">
+      <p>
+      <b>Liu, J.</b>, Ens, B., Prouzeau, A., Smiley, J., Nixon, I.K., Goodwin, S. and Dwyer, T., 2023, April. Datadancing: An exploration of the design space for visualisation view management for 3d surfaces and spaces. <em>In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-17)</em>.
+      </p>
+      <div class="selected-publication-links">
+        <a href="https://www.researchgate.net/profile/Jiazhou-Liu/publication/368759959_DataDancing_An_Exploration_of_the_Design_Space_For_Visualisation_View_Management_for_3D_Surfaces_and_Spaces/links/63f8ae450cf1030a564b86a9/DataDancing-An-Exploration-of-the-Design-Space-For-Visualisation-View-Management-for-3D-Surfaces-and-Spaces.pdf">PDF</a>
+        <a href="https://doi.org/10.1145/3544548.3580827">DOI</a>
       </div>
     </div>
   </div>
