@@ -584,7 +584,7 @@ border-radius: .1em;
   margin: 0 0 2rem 0;
 }
 
-.featured-projects .project-row {
+.project-row {
   background: #fff;
   border-radius: 20px;
   padding: 1rem;
@@ -596,7 +596,7 @@ border-radius: .1em;
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
-.featured-projects .project-row:hover {
+.project-row:hover {
   transform: translateY(-8px);
   box-shadow: 0 14px 30px rgba(0, 0, 0, 0.14);
 }

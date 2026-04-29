@@ -3,7 +3,8 @@ title: 'AI-facilitated AR Handover System for ICU Nurses'
 status: 'Ongoing'
 fundedBy: 'Monash FIT Seed Grant 2025'
 permalink: /projects/handover/
-excerpt: 'testtesttest'
+excerpt: 'This project addresses the challenges in the nurse handover process in critical care settings by designing an integrated solution that leverages immersive and AI technologies. We propose an integrated approach consisting of the following innovative concepts: in-situ augmented reality (AR) overlays, an AI-assisted conversational agent, and a cross-reality collaborative model.'
+teaser: /images/ICU-Nurses.png
 tags:
   - digital health
   - augmented reality
