@@ -775,8 +775,8 @@ border-radius: .1em;
 }
 
 .student-meta {
-  margin: 0 0 0.35rem 0;
-  font-size: 1rem;
+  margin: 0 0 0.35rem 0 !important;
+  font-size: 0.7rem !important;
   color: #555;
 }
 
