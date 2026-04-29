@@ -15,7 +15,7 @@ author_profile: true
     </h3>
     <p class="student-meta">PhD. Co-supervisor. Monash University.</p>
     <p class="student-description">
-      Ms. Qin investigates novel techniques for immersive contextual data analytics.
+      <a href="#">Research Project</a>: Impacts of Adaptive Contextual Immersive Environments in ProxSituated Data Analytics
     </p>
   </div>
 </div>
