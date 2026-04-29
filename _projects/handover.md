@@ -9,13 +9,19 @@ tags:
   - artificial intelligence
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+<img src="images/ICU-Nurses.png" alt="ICU Nurses" width="800" height="481">
 
-Headings are cool
-======
+Effective nurse handover processes are crucial in high-pressure environments like intensive care units (ICUs), where clinical decisions must be quick and accurate. Our preliminary interviews with ICU nurses revealed significant challenges in current handover practices, including fragmented patient data spread across multiple screens or tabs, reliance on pen-and-paper note-taking, and inconsistent adherence to structured communication frameworks such as ISBAR (Identify, Situation, Background, Assessment, Recommendation).
 
-You can have many headings
-======
+These issues lead to cognitive overload, critical information omissions, and heightened clinical risks, particularly during fast-paced shift transitions when staff fatigue is prevalent. ICU nurses have expressed a strong need for visual and spatial tools to support real-time data visualisation, standardised communication, and enhanced training. Yet, innovation in this area remains limited.
 
-Aren't headings cool?
-------
+This research addresses the challenges in the nurse handover process in critical care settings by designing an integrated solution that leverages immersive and AI technologies. We propose an integrated approach consisting of the following innovative concepts: in-situ augmented reality (AR) overlays, an AI-assisted conversational agent, and a cross-reality collaborative model.
+
+In-situ augmented reality overlays
+The project will mainly explore the use of embedded visualisations (e.g., vital sign trends and digital anatomical models) in 3D space, displayed through augmented reality headsets at the bedside, to ensure data integrity over time and between nurses, assisting nurses in promptly identifying abnormal conditions, and enhancing clinical decision-making.
+
+AI-facilitated conversational agent
+This project will further explore the application of a generative AI-facilitated conversational agent to improve communication during nurse handovers, leveraging conversational context and aligning with the ISBAR framework. This research direction aims to design a system module to ease cognitive load during handovers, helping outgoing nurses recall key points and incoming nurses retain what was communicated.
+
+Cross-reality collaborative model
+The project will also explore leveraging augmented reality to develop a cross-reality system that supports collaborative but remote and even asynchronous nurse handovers. Traditional handover requires nurses to be co-located, while AR and AI could enable asynchronous information exchange (e.g., pre-recorded handover or a remote handover process for patient transfer) for shared understanding and flexible communication during the transition of care.
