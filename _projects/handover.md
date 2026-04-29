@@ -10,6 +10,7 @@ tags:
   - digital health
   - augmented reality
   - artificial intelligence
+  - co-design
 ---
 
 <img src="/images/ICU-Nurses.png" alt="ICU Nurses" width="800" height="481">
