@@ -123,8 +123,8 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
       Li, M., Zhang, P., <b>Liu, J.</b>, Haryanto, A., Satriadi, K.A., Nguyen, T., Mehta, D., Lokmic-Tomkins, Z. and Dwyer, T., 2026. HandovAR: Towards AR and AI Support for ICU Nurse Handover.
       </p>
       <div class="selected-publication-links">
-        <a href="https://xr4ce-chi26.tech-experience.at/papers/XR4CE_paper_30.pdf">PDF</a>
-        <a href="https://youtu.be/oOJKfEGj0ac">Video</a>
+        <a target="_blank" href="https://xr4ce-chi26.tech-experience.at/papers/XR4CE_paper_30.pdf">PDF</a>
+        <a target="_blank" href="https://youtu.be/oOJKfEGj0ac">Video</a>
       </div>
     </div>
   </div>
@@ -160,7 +160,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
         Qin, L., Satriadi, K.A., <b>Liu, J.</b>, Zhan, Y., Shao, J., Liu, P., Chen, Z. and Liu, Y., 2025. Effects of interface layouts on cognitive performance for pedicle screw placement simulator in immersive environments. <em>International Journal of Human-Computer Studies</em>, 103650.
       </p>
       <div class="selected-publication-links">
-        <a href="https://doi.org/10.1016/j.ijhcs.2025.103650">DOI</a>
+        <a target="_blank" href="https://doi.org/10.1016/j.ijhcs.2025.103650">DOI</a>
       </div>
     </div>
   </div>
@@ -196,8 +196,8 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
       Pooryousef, V., Peiris, H., Liang, H., Li, A., Chen, Z., Dwyer, T. and <b>Liu, J.</b>, SAMMed-VR: Integrated Segment Anything Model in Virtual Reality for Supervised Brain Tumour Segmentation.
       </p>
       <div class="selected-publication-links">
-        <a href="https://www.researchgate.net/profile/Jiazhou-Liu/publication/396192974_SAMMed-VR_Integrated_Segment_Anything_Model_in_Virtual_Reality_for_Supervised_Brain_Tumour_Segmentation/links/68e0f633ffdca73694b55d78/SAMMed-VR-Integrated-Segment-Anything-Model-in-Virtual-Reality-for-Supervised-Brain-Tumour-Segmentation.pdf">PDF</a>
-        <a href="https://youtu.be/bNXE739Gef0">Video</a>
+        <a target="_blank" href="https://www.researchgate.net/profile/Jiazhou-Liu/publication/396192974_SAMMed-VR_Integrated_Segment_Anything_Model_in_Virtual_Reality_for_Supervised_Brain_Tumour_Segmentation/links/68e0f633ffdca73694b55d78/SAMMed-VR-Integrated-Segment-Anything-Model-in-Virtual-Reality-for-Supervised-Brain-Tumour-Segmentation.pdf">PDF</a>
+        <a target="_blank" href="https://youtu.be/bNXE739Gef0">Video</a>
       </div>
     </div>
   </div>
@@ -233,9 +233,9 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
       <b>Liu, J.</b>, Satriadi, K.A., Ens, B. and Dwyer, T., 2024, October. Investigating the effects of physical landmarks on spatial memory for information visualisation in augmented reality. <em>In 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR) (pp. 289-298).</em> IEEE.
       </p>
       <div class="selected-publication-links">
-        <a href="https://www.researchgate.net/profile/Jiazhou-Liu/publication/384395912_Investigating_the_Effects_of_Physical_Landmarks_on_Spatial_Memory_for_Information_Visualisation_in_Augmented_Reality/links/66f6b3def599e0392fa8f1e3/Investigating-the-Effects-of-Physical-Landmarks-on-Spatial-Memory-for-Information-Visualisation-in-Augmented-Reality.pdf">PDF</a>
-        <a href="https://doi.org/10.1109/ISMAR62088.2024.00043">DOI</a>
-        <a href="https://youtu.be/iJLhF89O0Gg">Video</a>
+        <a target="_blank" href="https://www.researchgate.net/profile/Jiazhou-Liu/publication/384395912_Investigating_the_Effects_of_Physical_Landmarks_on_Spatial_Memory_for_Information_Visualisation_in_Augmented_Reality/links/66f6b3def599e0392fa8f1e3/Investigating-the-Effects-of-Physical-Landmarks-on-Spatial-Memory-for-Information-Visualisation-in-Augmented-Reality.pdf">PDF</a>
+        <a target="_blank" href="https://doi.org/10.1109/ISMAR62088.2024.00043">DOI</a>
+        <a target="_blank" href="https://youtu.be/iJLhF89O0Gg">Video</a>
       </div>
     </div>
   </div>
@@ -272,9 +272,9 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
       <b>Liu, J.</b>, Rao, A.S., Ke, F., Dwyer, T., Tag, B. and Haghighi, P.D., 2024, October. AR-Facilitated Safety Inspection and Fall Hazard Detection on Construction Sites. <em>In 2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 12-14)</em>. IEEE.
       </p>
       <div class="selected-publication-links">
-        <a href="https://jiazhouliu.com/wp-content/uploads/2025/04/ISMAR24_Workshop_Paper.pdf">PDF</a>
-        <a href="https://doi.org/10.1109/ISMAR-Adjunct64951.2024.00010">DOI</a>
-        <a href="https://youtu.be/-ZbInoBGKkg">Video</a> 
+        <a target="_blank" href="https://jiazhouliu.com/wp-content/uploads/2025/04/ISMAR24_Workshop_Paper.pdf">PDF</a>
+        <a target="_blank" href="https://doi.org/10.1109/ISMAR-Adjunct64951.2024.00010">DOI</a>
+        <a target="_blank" href="https://youtu.be/-ZbInoBGKkg">Video</a> 
       </div>
     </div>
   </div>
@@ -311,9 +311,9 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
       <b>Liu, J.</b>, Ens, B., Prouzeau, A., Smiley, J., Nixon, I.K., Goodwin, S. and Dwyer, T., 2023, April. Datadancing: An exploration of the design space for visualisation view management for 3d surfaces and spaces. <em>In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-17)</em>.
       </p>
       <div class="selected-publication-links">
-        <a href="https://www.researchgate.net/profile/Jiazhou-Liu/publication/368759959_DataDancing_An_Exploration_of_the_Design_Space_For_Visualisation_View_Management_for_3D_Surfaces_and_Spaces/links/63f8ae450cf1030a564b86a9/DataDancing-An-Exploration-of-the-Design-Space-For-Visualisation-View-Management-for-3D-Surfaces-and-Spaces.pdf">PDF</a>
-        <a href="https://doi.org/10.1145/3544548.3580827">DOI</a>
-        <a href="https://youtu.be/buwe9OxjGnQ">Video</a>
+        <a target="_blank" href="https://www.researchgate.net/profile/Jiazhou-Liu/publication/368759959_DataDancing_An_Exploration_of_the_Design_Space_For_Visualisation_View_Management_for_3D_Surfaces_and_Spaces/links/63f8ae450cf1030a564b86a9/DataDancing-An-Exploration-of-the-Design-Space-For-Visualisation-View-Management-for-3D-Surfaces-and-Spaces.pdf">PDF</a>
+        <a target="_blank" href="https://doi.org/10.1145/3544548.3580827">DOI</a>
+        <a target="_blank" href="https://youtu.be/buwe9OxjGnQ">Video</a>
       </div>
     </div>
   </div>
@@ -348,9 +348,9 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
       Li, A., <b>Liu, J.</b>, Cordeil, M., Topliss, J., Piumsomboon, T. and Ens, B., 2023, April. Gestureexplorer: Immersive visualisation and exploration of gesture data. <em>In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-16)</em>.
       </p>
       <div class="selected-publication-links">
-        <a href="academia.edu/download/101845545/3544548.pdf">PDF</a>
-        <a href="https://doi.org/10.1145/3544548.3580678">DOI</a>
-        <a href="https://youtu.be/srKzgtYILgA?si=KqrLjG65Zgw1flwn">Video</a>
+        <a target="_blank" href="academia.edu/download/101845545/3544548.pdf">PDF</a>
+        <a target="_blank" href="https://doi.org/10.1145/3544548.3580678">DOI</a>
+        <a target="_blank" href="https://youtu.be/srKzgtYILgA?si=KqrLjG65Zgw1flwn">Video</a>
       </div>
     </div>
   </div>
