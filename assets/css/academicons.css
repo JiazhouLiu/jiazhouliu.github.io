@@ -643,9 +643,8 @@ border-radius: .1em;
 }
 
 .selected-publication-title {
-  margin: 0 0 1rem 0;
-  line-height: 1.25;
-  font-weight: 700;
+  margin: 0 0 0.5rem 0;
+  font-weight: 500;
 }
 
 .selected-publication-title a {
