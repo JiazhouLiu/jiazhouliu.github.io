@@ -12,8 +12,6 @@ tags:
   - co-design
 ---
 
-**Problem Statement** 
-
 Pharmacy practice involves complex, high-stakes workflows that require pharmacists to verify prescriptions, check for allergies and drug interactions, and retrieve medications from inventory systems. These tasks are distributed across multiple digital platforms and physical processes, leading to frequent context switching, high cognitive load, and workflow inefficiencies.
 
 Such fragmentation contributes to dispensing delays and increases the risk of medication errors, particularly in high-volume settings. While digital health systems support information access, they are not optimised for real-time, task-integrated decision support. Emerging technologies such as Augmented Reality (AR) offer the potential to embed critical information directly into the user’s field of view, yet their application in pharmacy remains underexplored.
