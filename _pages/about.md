@@ -124,6 +124,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
       </p>
       <div class="selected-publication-links">
         <a href="https://xr4ce-chi26.tech-experience.at/papers/XR4CE_paper_30.pdf">PDF</a>
+        <a href="https://youtu.be/oOJKfEGj0ac">Video</a>
       </div>
     </div>
   </div>
@@ -196,6 +197,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
       </p>
       <div class="selected-publication-links">
         <a href="https://www.researchgate.net/profile/Jiazhou-Liu/publication/396192974_SAMMed-VR_Integrated_Segment_Anything_Model_in_Virtual_Reality_for_Supervised_Brain_Tumour_Segmentation/links/68e0f633ffdca73694b55d78/SAMMed-VR-Integrated-Segment-Anything-Model-in-Virtual-Reality-for-Supervised-Brain-Tumour-Segmentation.pdf">PDF</a>
+        <a href="https://youtu.be/bNXE739Gef0">Video</a>
       </div>
     </div>
   </div>
@@ -233,6 +235,85 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
       <div class="selected-publication-links">
         <a href="https://www.researchgate.net/profile/Jiazhou-Liu/publication/384395912_Investigating_the_Effects_of_Physical_Landmarks_on_Spatial_Memory_for_Information_Visualisation_in_Augmented_Reality/links/66f6b3def599e0392fa8f1e3/Investigating-the-Effects-of-Physical-Landmarks-on-Spatial-Memory-for-Information-Visualisation-in-Augmented-Reality.pdf">PDF</a>
         <a href="https://doi.org/10.1109/ISMAR62088.2024.00043">DOI</a>
+        <a href="https://youtu.be/iJLhF89O0Gg">Video</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="selected-publication">
+  <div class="selected-publication-image">
+    <img src="/images/publications/teaser_crcSafety.jpg" alt="A use case scenario where a worker wears an AR headset to conduct a routine safety inspection.">
+  </div>
+  <div class="selected-publication-body">
+    <div class="selected-publication-main">
+      <h3 class="selected-publication-title">
+        <a href="/publications/#/">
+          AR-Facilitated Safety Inspection and Fall Hazard Detection on Construction Sites
+        </a>
+      </h3>
+      <p class="selected-publication-summary">
+        Together with industry experts, we are exploring the potential of head-mounted augmented reality to facilitate safety inspections on high-rise construction sites. A particular concern in the industry is inspecting perimeter safety screens on higher levels of construction sites, intended to prevent falls of people and objects. We aim to support workers performing this inspection task by tracking which parts of the safety screens have been inspected. We use machine learning to automatically detect gaps in the perimeter screens that require closer inspection and remediation and to automate reporting. This work-in-progress paper describes the problem, our early progress, concerns around worker privacy, and the possibilities to mitigate these.
+      </p>
+      <p class="selected-publication-type">
+        <strong>Publication type:</strong> short paper
+      </p>
+      <div class="selected-publication-tags">
+        <span>ismar</span>
+        <span>construction site</span>
+        <span>worker's privacy</span>
+        <span>safety inspection</span>
+        <span>fall from height</span>
+        <span>augmented reality</span>
+      </div>
+    </div>
+    <div class="selected-publication-meta">
+      <p>
+      <b>Liu, J.</b>, Rao, A.S., Ke, F., Dwyer, T., Tag, B. and Haghighi, P.D., 2024, October. AR-Facilitated Safety Inspection and Fall Hazard Detection on Construction Sites. <em>In 2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 12-14)</em>. IEEE.
+      </p>
+      <div class="selected-publication-links">
+        <a href="https://jiazhouliu.com/wp-content/uploads/2025/04/ISMAR24_Workshop_Paper.pdf">PDF</a>
+        <a href="https://doi.org/10.1109/ISMAR-Adjunct64951.2024.00010">DOI</a>
+        <a href="https://youtu.be/-ZbInoBGKkg">Video</a> 
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="selected-publication">
+  <div class="selected-publication-image">
+    <img src="/images/publications/teaser_datadancing.jpg" alt="hybrid prototype demonstrating interaction possibilities of the DataDancing design space for visualisation view management.">
+  </div>
+  <div class="selected-publication-body">
+    <div class="selected-publication-main">
+      <h3 class="selected-publication-title">
+        <a href="/publications/#/">
+          DataDancing: An Exploration of the Design Space For Visualisation View Management for 3D Surfaces and Spaces
+        </a>
+      </h3>
+      <p class="selected-publication-summary">
+        In this work, We encapsulate the possibilities for visualisation view management into a design space (called “DataDancing”). From this design space we extrapolate a variety of view management prototypes, each demonstrating a diferent combination of interaction techniques and space use. The prototypes are enabled by a full-body tracking system including novel devices for torso and foot interaction. We explore four of these prototypes, encompassing standard wall and table-style interaction as well as novel foot interaction, in depth through a qualitative user study. Learning from the results, we improve the interaction techniques and propose two hybrid interfaces that demonstrate interaction possibilities of the design space.
+      </p>
+      <p class="selected-publication-type">
+        <strong>Publication type:</strong> full paper
+      </p>
+      <div class="selected-publication-tags">
+        <span>chi</span>
+        <span>view management</span>
+        <span>design space</span>
+        <span>immersive analytics</span>
+        <span>virtual reality</span>
+        <span>3D surfaces and spaces</span>
+      </div>
+    </div>
+    <div class="selected-publication-meta">
+      <p>
+      <b>Liu, J.</b>, Ens, B., Prouzeau, A., Smiley, J., Nixon, I.K., Goodwin, S. and Dwyer, T., 2023, April. Datadancing: An exploration of the design space for visualisation view management for 3d surfaces and spaces. <em>In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-17)</em>.
+      </p>
+      <div class="selected-publication-links">
+        <a href="https://www.researchgate.net/profile/Jiazhou-Liu/publication/368759959_DataDancing_An_Exploration_of_the_Design_Space_For_Visualisation_View_Management_for_3D_Surfaces_and_Spaces/links/63f8ae450cf1030a564b86a9/DataDancing-An-Exploration-of-the-Design-Space-For-Visualisation-View-Management-for-3D-Surfaces-and-Spaces.pdf">PDF</a>
+        <a href="https://doi.org/10.1145/3544548.3580827">DOI</a>
+        <a href="https://youtu.be/buwe9OxjGnQ">Video</a>
       </div>
     </div>
   </div>
