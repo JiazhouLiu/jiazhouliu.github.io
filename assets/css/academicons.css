@@ -601,24 +601,24 @@ border-radius: .1em;
   box-shadow: 0 14px 30px rgba(0, 0, 0, 0.14);
 }
 
-.featured-projects .project-image img {
+.project-image img {
   width: 220px;
   height: auto;
   display: block;
   object-fit: cover;
 }
 
-.featured-projects .project-content {
+.project-content {
   flex: 1;
 }
 
-.featured-projects .project-content h3 {
+.project-content h3 {
   margin-top: 0;
   margin-bottom: 0.5rem;
   line-height: 1.2;
 }
 
-.featured-projects .project-content p {
+.project-content p {
   margin-top: 0;
   font-size: 0.8em;
 }
