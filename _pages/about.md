@@ -93,11 +93,46 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
 
 ## Selected Publications
 <div class="selected_publication">
+  <div class="selected-publication-image">
+    <img src="/images/ICU-Nurses.png" alt="Nurses delivering handover in an ICU room">
+  </div>
+  <div class="selected-publication-body">
+    <div class="selected-publication-main">
+      <h3 class="selected-publication-title">
+        <a href="/publications/#/">
+          HandovAR: Towards AR and AI Support for ICU Nurse Handover
+        </a>
+      </h3>
+      <p class="selected-publication-summary">
+         We conducted seven interviews with ICU nurses to understand current handover practices. Preliminary findings reveal significant challenges, including high cognitive load from fragmented EMR data, the risk of technology hindering interpersonal rapport, and the loss of nuanced data during shift transitions. These issues lead to cognitive overload and information omission, particularly during fast-paced shift transitions when staff fatigue is prevalent. We explore the potential for in-situ Augmented Reality (AR) overlays and Artificial Intelligence (AI) agents to support ICU nurse handover by enabling hands-free information access, procedure guidance and documentation assistance.
+      </p>
+      <p class="selected-publication-type">
+        <strong>Publication type:</strong> workshop position paper.
+      </p>
+      <div class="selected-publication-tags">
+        <span>chi</span>
+        <span>information exchange</span>
+        <span>augmented reality</span>
+        <span>artificial intelligence</span>
+        <span>nurse handover</span>
+        <span>icu department</span>
+      </div>
+    </div>
+    <div class="selected-publication-meta">
+      <p>
+      Li, M., Zhang, P., <b>Liu, J.</b>, Haryanto, A., Satriadi, K.A., Nguyen, T., Mehta, D., Lokmic-Tomkins, Z. and Dwyer, T., 2026. HandovAR: Towards AR and AI Support for ICU Nurse Handover.
+      </p>
+      <div class="selected-publication-links">
+        <a href="https://xr4ce-chi26.tech-experience.at/papers/XR4CE_paper_30.pdf">PDF</a>
+      </div>
+    </div>
+  </div>
+</div>
 
+<div class="selected_publication">
   <div class="selected-publication-image">
     <img src="/images/publications/Lang_Paper.PNG" alt="Participant performing the task with interface in VR headset">
   </div>
-
   <div class="selected-publication-body">
     <div class="selected-publication-main">
       <h3 class="selected-publication-title">
@@ -105,15 +140,12 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
           Effects of interface layouts on cognitive performance for pedicle screw placement simulator in immersive environments
         </a>
       </h3>
-
       <p class="selected-publication-summary">
         This work investigates how view layout design in immersive VR affects performance in complex medical procedures such as pedicle screw placement, which require precise hand–eye coordination and multi-angle spatial understanding. Through an experiment with 27 participants, the study shows that layout choices significantly influence task efficiency and visual search behaviour, with vertically arranged views on the left reducing response time. The findings provide practical design guidelines for VR simulators that integrate manual interaction with multiple perspectives.
       </p>
-
       <p class="selected-publication-type">
         <strong>Publication type:</strong> full paper.
       </p>
-
       <div class="selected-publication-tags">
         <span>ijhcs</span>
         <span>empirical study</span>
@@ -122,16 +154,50 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
         <span>cognitive performance</span>
       </div>
     </div>
-
     <div class="selected-publication-meta">
       <p>
         Qin, L., Satriadi, K.A., <b>Liu, J.</b>, Zhan, Y., Shao, J., Liu, P., Chen, Z. and Liu, Y., 2025. Effects of interface layouts on cognitive performance for pedicle screw placement simulator in immersive environments. <em>International Journal of Human-Computer Studies</em>, 103650.
       </p>
-
       <div class="selected-publication-links">
         <a href="https://doi.org/10.1016/j.ijhcs.2025.103650">DOI</a>
       </div>
     </div>
   </div>
+</div>
 
+
+<div class="selected_publication">
+  <div class="selected-publication-image">
+    <img src="/images/publications/teaser_brainTumour.png" alt="An overview of the workflow in our system.">
+  </div>
+  <div class="selected-publication-body">
+    <div class="selected-publication-main">
+      <h3 class="selected-publication-title">
+        <a href="/publications/#/">
+          SAMMed-VR: Integrated Segment Anything Model in Virtual Reality for Supervised Brain Tumour Segmentation
+        </a>
+      </h3>
+      <p class="selected-publication-summary">
+        In this work, we developed a design probe to explore how virtual reality can be used to integrate an expert-in-the-loop approach with SAM-Med3D for robust brain tumour segmentation. The imaging data of the brain and the segmented tumours are visualised in virtual reality, where experts can use analytical tools to review the segmentation. They can iteratively refine the results by selecting specific points for the AI to refine and improve the segmentation. In future work, we will collaborate with domain experts to evaluate and improve our prototype.
+      </p>
+      <p class="selected-publication-type">
+        <strong>Publication type:</strong> short paper.
+      </p>
+      <div class="selected-publication-tags">
+        <span>visualisation</span>
+        <span>brain tumour segmentation</span>
+        <span>virtual reality</span>
+        <span>3D imaging</span>
+        <span>artificial intelligence</span>
+      </div>
+    </div>
+    <div class="selected-publication-meta">
+      <p>
+      Pooryousef, V., Peiris, H., Liang, H., Li, A., Chen, Z., Dwyer, T. and <b>Liu, J.</b>, SAMMed-VR: Integrated Segment Anything Model in Virtual Reality for Supervised Brain Tumour Segmentation.
+      </p>
+      <div class="selected-publication-links">
+        <a href="https://www.researchgate.net/profile/Jiazhou-Liu/publication/396192974_SAMMed-VR_Integrated_Segment_Anything_Model_in_Virtual_Reality_for_Supervised_Brain_Tumour_Segmentation/links/68e0f633ffdca73694b55d78/SAMMed-VR-Integrated-Segment-Anything-Model-in-Virtual-Reality-for-Supervised-Brain-Tumour-Segmentation.pdf">PDF</a>
+      </div>
+    </div>
+  </div>
 </div>
