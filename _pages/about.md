@@ -110,12 +110,12 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
         <strong>Publication type:</strong> workshop position paper
       </p>
       <div class="selected-publication-tags">
-        <span>chi</span>
+        <span>CHI</span>
         <span>information exchange</span>
         <span>augmented reality</span>
         <span>artificial intelligence</span>
         <span>nurse handover</span>
-        <span>icu department</span>
+        <span>ICU department</span>
       </div>
     </div>
     <div class="selected-publication-meta">
@@ -148,7 +148,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
         <strong>Publication type:</strong> full paper
       </p>
       <div class="selected-publication-tags">
-        <span>ijhcs</span>
+        <span>IJHCS</span>
         <span>empirical study</span>
         <span>interface layout</span>
         <span>situated visualization</span>
@@ -221,7 +221,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
         <strong>Publication type:</strong> full paper
       </p>
       <div class="selected-publication-tags">
-        <span>ismar</span>
+        <span>ISMAR</span>
         <span>spatial memory</span>
         <span>immersive analytics</span>
         <span>view management</span>
@@ -259,7 +259,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
         <strong>Publication type:</strong> short paper
       </p>
       <div class="selected-publication-tags">
-        <span>ismar</span>
+        <span>ISMAR</span>
         <span>construction site</span>
         <span>worker's privacy</span>
         <span>safety inspection</span>
@@ -298,7 +298,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
         <strong>Publication type:</strong> full paper
       </p>
       <div class="selected-publication-tags">
-        <span>chi</span>
+        <span>CHI</span>
         <span>view management</span>
         <span>design space</span>
         <span>immersive analytics</span>
@@ -337,7 +337,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
         <strong>Publication type:</strong> full paper
       </p>
       <div class="selected-publication-tags">
-        <span>chi</span>
+        <span>CHI</span>
         <span>gesture elicitation study</span>
         <span>virtual reality</span>
         <span>immersive analytics</span>
@@ -374,7 +374,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
         <strong>Publication type:</strong> full paper
       </p>
       <div class="selected-publication-tags">
-        <span>iss</span>
+        <span>ISS</span>
         <span>spatial memory</span>
         <span>spatial layout</span>
         <span>immersive analytics</span>
@@ -413,7 +413,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
         <strong>Publication type:</strong> full paper
       </p>
       <div class="selected-publication-tags">
-        <span>vr</span>
+        <span>VR</span>
         <span>small multiples visualisation</span>
         <span>spatial layout</span>
         <span>immersive analytics</span>
