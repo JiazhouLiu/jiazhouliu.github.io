@@ -785,6 +785,11 @@ border-radius: .1em;
   line-height: 1.7;
 }
 
+.student-description a {
+  font-weight: 600;
+  font-size: 0.8rem;
+}
+
 .student-pubs-label {
   margin: 0.85rem 0 0.35rem 0;
   font-weight: 600;
