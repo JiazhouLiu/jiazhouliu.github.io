@@ -597,7 +597,7 @@ border-radius: .1em;
 }
 
 .project-row:hover {
-  transform: translateY(-8px);
+  transform: translateY(-4px);
   box-shadow: 0 14px 30px rgba(0, 0, 0, 0.14);
 }
 
@@ -647,7 +647,7 @@ border-radius: .1em;
 }
 
 .selected-publication:hover {
-  transform: translateY(-8px);
+  transform: translateY(-4px);
   box-shadow: 0 14px 30px rgba(0, 0, 0, 0.14);
 }
 
