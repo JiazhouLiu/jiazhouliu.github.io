@@ -598,7 +598,7 @@ border-radius: .1em;
   flex: 1;
 }
 
-.project-content h4 {
+.project-content h3 {
   margin-top: 0;
   margin-bottom: 0.5rem;
   line-height: 1.2;
@@ -606,7 +606,7 @@ border-radius: .1em;
 
 .project-content p {
   margin-top: 0;
-  line-height: 1.6;
+  font-size: 0.8em;
 }
 
 .projects-footer {
