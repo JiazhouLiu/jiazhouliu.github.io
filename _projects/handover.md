@@ -1,6 +1,6 @@
 ---
 title: 'AI-facilitated AR Handover System for ICU Nurses'
-date: 2024-present
+date: 2012-08-14
 permalink: /projects/handover/
 tags:
   - digital health
