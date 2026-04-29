@@ -1,7 +1,7 @@
 ---
 title: 'AI-facilitated AR Handover System for ICU Nurses'
 status: 'Ongoing'
-fundedBy: 'FIT Seed Grant 2025 - 2026'
+fundedBy: 'Monash FIT Seed Grant 2025'
 permalink: /projects/handover/
 tags:
   - digital health
@@ -9,7 +9,7 @@ tags:
   - artificial intelligence
 ---
 
-<img src="images/ICU-Nurses.png" alt="ICU Nurses" width="800" height="481">
+<img src="/images/ICU-Nurses.png" alt="ICU Nurses" width="800" height="481">
 
 Effective nurse handover processes are crucial in high-pressure environments like intensive care units (ICUs), where clinical decisions must be quick and accurate. Our preliminary interviews with ICU nurses revealed significant challenges in current handover practices, including fragmented patient data spread across multiple screens or tabs, reliance on pen-and-paper note-taking, and inconsistent adherence to structured communication frameworks such as ISBAR (Identify, Situation, Background, Assessment, Recommendation).
 
