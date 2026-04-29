@@ -5,7 +5,7 @@ fundedBy: 'EmVis Seed Fund 2025'
 role: 'Project Co-lead'
 permalink: /projects/safepharm/
 excerpt: 'SafePhARm project explores the use of Augmented Reality (AR) to provide context-aware information directly within pharmacists’ field of view. It aims to identify workflow inefficiencies, co-design AR interfaces with pharmacists, and develop a proof-of-concept prototype. The system will be evaluated in a controlled environment to assess its impact on task efficiency, usability, and cognitive load, ultimately generating design guidelines and evidence for AR-enabled digital health solutions.'
-teaser: /images/publications/SafePhARm.jpg
+teaser: /images/projects/SafePhARm.jpg
 tags:
   - digital health
   - augmented reality
@@ -28,4 +28,4 @@ By integrating data visualisation, workflow design, and human factors principles
   <li>Evaluate the impact of AR support on task efficiency, usability, and cognitive load compared to standard workflows.</li>
 </ul>
 
-<img src="/images/publications/SafePhARm.jpg" alt="SafePhARm" width="800" height="400">
+<img src="/images/projects/SafePhARm.jpg" alt="SafePhARm" width="800" height="400">

@@ -5,7 +5,7 @@ fundedBy: 'Student Project'
 role: 'Project Lead'
 permalink: /projects/bsts/
 excerpt: 'The project tests flexible virtual personas that vary in tone, emotion, and resistance to create adaptive role play. It aims to improve the quality, accessibility, and scalability of simulation training, especially for regional and remote learners. Educators can supervise sessions in real time or review interactions through secure recordings and analytics, strengthening feedback loops.'
-teaser: /images/BSTS.png
+teaser: /images/projects/BSTS.png
 tags:
   - simulation-based training
   - virtual reality
@@ -18,4 +18,4 @@ The Behavioural Skills Training System (BSTS) project explores how conversationa
 The project tests flexible virtual personas that vary in tone, emotion, and resistance to create adaptive role play. It aims to improve the quality, accessibility, and scalability of simulation training, especially for regional and remote learners. Educators can supervise sessions in real time or review interactions through secure recordings and analytics, strengthening feedback loops. By merging conversational intelligence with immersive embodiment, BSTS delivers scalable, repeatable, and authentic training that builds paramedic students’ confidence, empathy, and communication competence.
 
 
-<img src="/images/publications/Paramedic-Students-2.jpg" alt="Behavioural Skills Training System" width="800" height="419">
+<img src="/images/projects/Paramedic-Students-2.jpg" alt="Behavioural Skills Training System" width="800" height="419">

@@ -5,7 +5,7 @@ fundedBy: 'Monash FIT Seed Grant 2024'
 role: 'Project Lead'
 permalink: /projects/brainTumourSeg/
 excerpt: 'This project develops an AI-driven system to automate brain tumour segmentation from complex 3D MRI scans, reducing the need for time-consuming and error-prone manual annotation by medical experts. It combines deep learning models with immersive visualisation (e.g., AR/VR), allowing clinicians to interact with and refine tumour predictions directly in 3D space.'
-teaser: /images/AI-facilitated-Brain-Tumour-Segmentation.jpg
+teaser: /images/projects/AI-facilitated-Brain-Tumour-Segmentation.jpg
 tags:
   - digital health
   - virtual reality

@@ -56,7 +56,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
 
   <div class="project-row">
     <div class="project-image">
-      <img src="/images/ICU-Nurses.png" alt="ICU Nurse Handover">
+      <img src="/images/projects/ICU-Nurses.png" alt="ICU Nurse Handover">
     </div>
     <div class="project-content">
       <h3>AI-facilitated AR Handover System for ICU Nurses</h3>
@@ -68,7 +68,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
 
   <div class="project-row">
     <div class="project-image">
-      <img src="/images/AI-facilitated-Brain-Tumour-Segmentation.jpg" alt="Brain Tumour Segmentation">
+      <img src="/images/projects/AI-facilitated-Brain-Tumour-Segmentation.jpg" alt="Brain Tumour Segmentation">
     </div>
     <div class="project-content">
       <h3>AI-facilitated Brain Tumour Segmentation in Immersive Environments</h3>
@@ -80,7 +80,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
 
   <div class="project-row">
     <div class="project-image">
-      <img src="/images/BSTS.png" alt="Behavioural Skills Training System">
+      <img src="/images/projects/BSTS.png" alt="Behavioural Skills Training System">
     </div>
     <div class="project-content">
       <h3>Behavioural Skills Training System for Emergency Services Workers</h3>
@@ -99,7 +99,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
 ## Selected Publications
 <div class="selected-publication">
   <div class="selected-publication-image">
-    <img src="/images/publications/handover.jpg" alt="Nurses delivering handover in an ICU room">
+    <img src="/images/projects/handover.jpg" alt="Nurses delivering handover in an ICU room">
   </div>
   <div class="selected-publication-body">
     <div class="selected-publication-main">

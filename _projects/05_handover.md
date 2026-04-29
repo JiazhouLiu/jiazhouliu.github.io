@@ -5,7 +5,7 @@ fundedBy: 'Monash FIT Seed Grant 2025'
 role: 'Project Lead'
 permalink: /projects/handover/
 excerpt: 'This project addresses the challenges in the nurse handover process in critical care settings by designing an integrated solution that leverages immersive and AI technologies. We propose an integrated approach consisting of the following innovative concepts: in-situ augmented reality (AR) overlays, an AI-assisted conversational agent, and a cross-reality collaborative model.'
-teaser: /images/ICU-Nurses.png
+teaser: /images/projects/ICU-Nurses.png
 tags:
   - digital health
   - augmented reality
@@ -13,7 +13,7 @@ tags:
   - co-design
 ---
 
-<img src="/images/ICU-Nurses.png" alt="ICU Nurses" width="800" height="481">
+<img src="/images/projects/ICU-Nurses.png" alt="ICU Nurses" width="800" height="481">
 
 Effective nurse handover processes are crucial in high-pressure environments like intensive care units (ICUs), where clinical decisions must be quick and accurate. Our preliminary interviews with ICU nurses revealed significant challenges in current handover practices, including fragmented patient data spread across multiple screens or tabs, reliance on pen-and-paper note-taking, and inconsistent adherence to structured communication frameworks such as ISBAR (Identify, Situation, Background, Assessment, Recommendation).
 
