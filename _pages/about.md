@@ -17,6 +17,29 @@ My research focuses on the design and evaluation of novel interaction techniques
 ### [HandovAR: Towards AR and AI Support for ICU Nurse Handover](https://academicpages.github.io/publications/#)
 Mengxing Li, Phoebe Zhang, **Jiazhou Liu**, Agnes Haryanto, Kadek Ananta Satriadi, Trung Nguyen, Deval Mehta, Zerina Lokmic-Tomkins, and Tim Dwyer\\
 <span style="font-size: 0.9em;">
-Published at **CHI-EA 2026** as a workshop-position paper.
+Published at [**CHI-EA 2026**](https://chi2026.acm.org/) as a workshop-position paper.
 </span>
 
+### [Effects of interface layouts on cognitive performance for pedicle screw placement simulator in immersive environments](https://academicpages.github.io/publications/#)
+Lang Qin, Kadek Ananta Satriadi , **Jiazhou Liu**, Yuhan Zhan, Jiang Shao, Peimeng Liu, Zhiyong Chen, Yongtao Liu\\
+<span style="font-size: 0.9em;">
+Published at [**IJHCS 2025**](https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies)  as a full paper.
+</span>
+
+### [Human Factors in Immersive Analytics](https://academicpages.github.io/publications/#)
+Yi Li, Kadek Ananta Satriadi, **Jiazhou Liu**, Anjali Khurana, Zhiqing Wu, Benjamin Tag, Tim Dwyer\\
+<span style="font-size: 0.9em;">
+Published at [**IEEE VIS 2025**](https://ieeevis.org/year/2025/welcome) as a workshop-proposal.
+</span>
+
+### [SAMMed-VR: Integrated Segment Anything Model in Virtual Reality for Supervised Brain Tumour Segmentation](https://academicpages.github.io/publications/#)
+Vahid Pooryousef, Himashi Peiris, Huiyi Liang, Ang Li, Zhaolin Chen, Tim Dwyer, **Jiazhou Liu**\\
+<span style="font-size: 0.9em;">
+Published at [**IEEE VIS 2025**](https://ieeevis.org/year/2025/welcome)  as a poster paper.
+</span>
+
+### [Investigating the effects of physical landmarks on spatial memory for information visualisation in augmented reality](https://academicpages.github.io/publications/#)
+**Jiazhou Liu**, Kadek Ananta Satriadi, Barrett Ens, Tim Dwyer\\
+<span style="font-size: 0.9em;">
+Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html)  as a full paper.
+</span>
