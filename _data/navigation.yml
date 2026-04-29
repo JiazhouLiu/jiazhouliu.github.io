@@ -10,24 +10,24 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
+        
+  - title: "Projects"
+    url: /projects/
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Supervision"
     url: /supervision/
-        
-  - title: "Service"
-    url: /service/
     
   - title: "CV"
     url: /files/full_cv.pdf
-    
-  - title: "Contact"
-    url: /contact/
+        
+  # - title: "Talks"
+  #   url: /talks/  
+
+  # - title: "Contact"
+  #   url: /contact/
 
   # - title: "Portfolio"
   #   url: /portfolio/
