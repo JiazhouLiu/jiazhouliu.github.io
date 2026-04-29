@@ -576,7 +576,7 @@ border-radius: .1em;
   text-decoration: none !important;
 }
 
-#recent-publications{
+#recent-publications, #featured-projects{
   margin-top: 2rem;
 }
 
