@@ -11,7 +11,7 @@ tags:
   - augmented reality
   - artificial intelligence
 ---
-<img src="images/publications/Site-Safety-Improvements.png" alt="Site Safety Improvements" width="800" height="445">
+<img src="/images/publications/Site-Safety-Improvements.png" alt="Site Safety Improvements" width="800" height="445">
 
 This project leverages the integration of AI-based visual models into augmented reality (AR) to address fall-from-height (FFH) risks in high-rise construction. Current FFH mitigation relies heavily on manual site inspections, which are time-consuming, labour-intensive, and difficult to keep up to date in fast-changing construction environments.
 
