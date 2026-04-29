@@ -13,9 +13,8 @@ My research focuses on the design and evaluation of novel interaction techniques
 
 <span style="font-size: 0.9em;">
 **Research Keywords: Immersive Analytics, Spatial Memory, Human-Centred AI, Data Visualisation**
-</span>
+</span><br>
 
-##
 ## Recent Publications
 ### [HandovAR: Towards AR and AI Support for ICU Nurse Handover](https://jiazhouliu.github.io/publications/#){: .no-underline}  
 Mengxing Li, Phoebe Zhang, **Jiazhou Liu**, Agnes Haryanto, Kadek Ananta Satriadi, Trung Nguyen, Deval Mehta, Zerina Lokmic-Tomkins, and Tim Dwyer\\
