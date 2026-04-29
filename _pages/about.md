@@ -11,10 +11,11 @@ I am a Lecturer in the [Embodied Visualisation (EmVis)](https://www.monash.edu/i
 
 My research focuses on the design and evaluation of novel interaction techniques for immersive environments, with particular emphasis on human-in-the-loop systems and the integration of AI methods into immersive analytics. I lead and collaborate on a range of research projects that apply these approaches across multiple domains, including digital health, simulation-based training and education, and smart manufacturing.
 
-<p style="font-size: 0.9em;">
+<span style="font-size: 0.9em;">
 **Research Keywords: Immersive Analytics, Spatial Memory, Human-Centred AI, Data Visualisation**
-</p>
+</span>
 
+##
 ## Recent Publications
 ### [HandovAR: Towards AR and AI Support for ICU Nurse Handover](https://jiazhouliu.github.io/publications/#){: .no-underline}  
 Mengxing Li, Phoebe Zhang, **Jiazhou Liu**, Agnes Haryanto, Kadek Ananta Satriadi, Trung Nguyen, Deval Mehta, Zerina Lokmic-Tomkins, and Tim Dwyer\\
