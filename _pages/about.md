@@ -92,7 +92,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
 </div>
 
 ## Selected Publications
-<div class="selected_publication">
+<div class="selected-publication">
   <div class="selected-publication-image">
     <img src="/images/ICU-Nurses.png" alt="Nurses delivering handover in an ICU room">
   </div>
@@ -129,7 +129,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
   </div>
 </div>
 
-<div class="selected_publication">
+<div class="selected-publication">
   <div class="selected-publication-image">
     <img src="/images/publications/Lang_Paper.PNG" alt="Participant performing the task with interface in VR headset">
   </div>
@@ -165,8 +165,43 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
   </div>
 </div>
 
+<div class="selected-publication">
+  <div class="selected-publication-image">
+    <img src="/images/publications/teaser_brainTumour.png" alt="An overview of the workflow in our system.">
+  </div>
+  <div class="selected-publication-body">
+    <div class="selected-publication-main">
+      <h3 class="selected-publication-title">
+        <a href="/publications/#/">
+          SAMMed-VR: Integrated Segment Anything Model in Virtual Reality for Supervised Brain Tumour Segmentation
+        </a>
+      </h3>
+      <p class="selected-publication-summary">
+        In this work, we developed a design probe to explore how virtual reality can be used to integrate an expert-in-the-loop approach with SAM-Med3D for robust brain tumour segmentation. The imaging data of the brain and the segmented tumours are visualised in virtual reality, where experts can use analytical tools to review the segmentation. They can iteratively refine the results by selecting specific points for the AI to refine and improve the segmentation. In future work, we will collaborate with domain experts to evaluate and improve our prototype.
+      </p>
+      <p class="selected-publication-type">
+        <strong>Publication type:</strong> short paper.
+      </p>
+      <div class="selected-publication-tags">
+        <span>visualisation</span>
+        <span>brain tumour segmentation</span>
+        <span>virtual reality</span>
+        <span>3D imaging</span>
+        <span>artificial intelligence</span>
+      </div>
+    </div>
+    <div class="selected-publication-meta">
+      <p>
+      Pooryousef, V., Peiris, H., Liang, H., Li, A., Chen, Z., Dwyer, T. and <b>Liu, J.</b>, SAMMed-VR: Integrated Segment Anything Model in Virtual Reality for Supervised Brain Tumour Segmentation.
+      </p>
+      <div class="selected-publication-links">
+        <a href="https://www.researchgate.net/profile/Jiazhou-Liu/publication/396192974_SAMMed-VR_Integrated_Segment_Anything_Model_in_Virtual_Reality_for_Supervised_Brain_Tumour_Segmentation/links/68e0f633ffdca73694b55d78/SAMMed-VR-Integrated-Segment-Anything-Model-in-Virtual-Reality-for-Supervised-Brain-Tumour-Segmentation.pdf">PDF</a>
+      </div>
+    </div>
+  </div>
+</div>
 
-<div class="selected_publication">
+<div class="selected-publication">
   <div class="selected-publication-image">
     <img src="/images/publications/teaser_brainTumour.png" alt="An overview of the workflow in our system.">
   </div>
