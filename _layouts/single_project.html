@@ -31,14 +31,26 @@ layout: default
             <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
 
-        
-        {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.venue and page.date %}
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}    
+          <div class="project-meta-circles">
+            <div class="meta-circle-item">
+              <div class="icon-circle">
+                <i class="fas fa-spinner"></i>
+              </div>
+              <div class="meta-content meta-status">
+                <span class="meta-label">Status</span>
+                {{page.status}}
+              </div>
+            </div>
+            <div class="meta-circle-item">
+              <div class="icon-circle">
+                <i class="fas fa-hand-holding-heart"></i>
+              </div>
+              <div class="meta-content meta-fund">
+                <span class="meta-label">Funded by</span>
+                {{page.fundedBy}}
+              </div>
+            </div>
+          </div>
         </header>
       {% endunless %}
 

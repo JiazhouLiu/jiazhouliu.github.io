@@ -1,6 +1,7 @@
 ---
 title: 'AI-facilitated AR Handover System for ICU Nurses'
-date: 2012-08-14
+status: 'Ongoing'
+fundedBy: 'FIT Seed Grant 2025 - 2026'
 permalink: /projects/handover/
 tags:
   - digital health
