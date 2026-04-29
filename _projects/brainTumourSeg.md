@@ -8,7 +8,7 @@ excerpt: 'This project develops an AI-driven system to automate brain tumour seg
 teaser: /images/AI-facilitated-Brain-Tumour-Segmentation.jpg
 tags:
   - digital health
-  - augmented reality
+  - virtual reality
   - artificial intelligence
 ---
 
