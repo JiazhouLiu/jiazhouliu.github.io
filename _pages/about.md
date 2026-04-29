@@ -15,7 +15,7 @@ My research focuses on the design and evaluation of novel interaction techniques
 
 ## Recent Publications
 ### [HandovAR: Towards AR and AI Support for ICU Nurse Handover](https://academicpages.github.io/publications/#)
-Mengxing Li, Phoebe Zhang, **Jiazhou Liu**, Agnes Haryanto, Kadek Ananta Satriadi, Trung Nguyen, Deval Mehta, Zerina Lokmic-Tomkins, and Tim Dwyer
+Mengxing Li, Phoebe Zhang, **Jiazhou Liu**, Agnes Haryanto, Kadek Ananta Satriadi, Trung Nguyen, Deval Mehta, Zerina Lokmic-Tomkins, and Tim Dwyer\\
 <span style="font-size: 0.9em;">
 Published at **CHI-EA 2026** as a workshop-position paper.
 </span>
