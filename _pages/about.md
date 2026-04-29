@@ -348,7 +348,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
       Li, A., <b>Liu, J.</b>, Cordeil, M., Topliss, J., Piumsomboon, T. and Ens, B., 2023, April. Gestureexplorer: Immersive visualisation and exploration of gesture data. <em>In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-16)</em>.
       </p>
       <div class="selected-publication-links">
-        <a target="_blank" href="academia.edu/download/101845545/3544548.pdf">PDF</a>
+        <a target="_blank" href="https://academia.edu/download/101845545/3544548.pdf">PDF</a>
         <a target="_blank" href="https://doi.org/10.1145/3544548.3580678">DOI</a>
         <a target="_blank" href="https://youtu.be/srKzgtYILgA?si=KqrLjG65Zgw1flwn">Video</a>
       </div>
