@@ -238,7 +238,7 @@ defaults:
       path: ""
       type: projects
     values:
-      layout: single
+      layout: single_project
       author_profile: true
   # _pages
   - scope:
