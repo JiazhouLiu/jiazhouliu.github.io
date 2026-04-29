@@ -820,3 +820,58 @@ border-radius: .1em;
     height: 88px;
   }
 }
+
+.project-meta-circles {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+    margin: 0 0 2rem;
+    flex-wrap: wrap;
+    padding: 1rem 0;
+    border-bottom: 2px solid #e6e6e6;
+}
+
+.meta-circle-item {
+    display: flex;
+    align-items: center;
+    gap: .875rem;
+}
+
+.meta-content {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.meta-label {
+    font-size: .75rem;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    color: #3c3c3c;
+    font-weight: 600;
+}
+
+.icon-circle {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background: #e6f3f9;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.icon-circle i {
+    color: #006dae;
+    font-size: 1.1rem;
+}
+
+.fa-spinner:before {
+    content: "\f110";
+}
+
+.fa-hand-holding-heart:before {
+    content: "\f4be";
+}
+
