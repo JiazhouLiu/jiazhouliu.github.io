@@ -5,7 +5,7 @@ fundedBy: 'Building 4.0 CRC'
 role: 'Research Fellow'
 permalink: /projects/safetyInspection/
 excerpt: 'This project leverages the integration of AI-based visual models into augmented reality (AR) to address fall-from-height (FFH) risks in high-rise construction. Current FFH mitigation relies heavily on manual site inspections, which are time-consuming, labour-intensive, and difficult to keep up to date in fast-changing construction environments. In collaboration with our industry partner (Lendlease), we investigated how emerging digital technologies can support more timely, accurate, and scalable identification of FFH hazards such as gaps in perimeter screens and unprotected openings. We designed and implemented proof-of-concept prototypes that combine AI-assisted computer vision with AR to automate hazard detection and enhance inspection workflows. The prototypes demonstrate real-time visual analysis, automated reporting, and immersive AR-based site inspection and training capabilities.'
-teaser: /images/Site-Safety-Improvements.jpg
+teaser: /images/publications/Site-Safety-Improvements.jpg
 tags:
   - construction site
   - augmented reality
