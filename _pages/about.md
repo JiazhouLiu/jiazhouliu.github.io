@@ -86,7 +86,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
   </div>
 
   <div class="projects-footer">
-    <a href="https://jiazhouliu.github.io/projects">All projects</a>
+    <a href="https://jiazhouliu.github.io/projects">All Projects</a>
   </div>
 
 </div>
@@ -435,5 +435,5 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
 </div>
 
 <div class="publication-footer">
-  <a href="https://jiazhouliu.github.io/publications">All publications</a>
+  <a href="https://jiazhouliu.github.io/publications">All Publications</a>
 </div>
