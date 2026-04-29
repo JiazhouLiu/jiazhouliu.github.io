@@ -433,3 +433,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
     </div>
   </div>
 </div>
+
+<div class="publication-footer">
+  <a href="https://jiazhouliu.github.io/publications">All publications</a>
+</div>

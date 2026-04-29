@@ -730,3 +730,16 @@ border-radius: .1em;
   color: #555;
 }
 
+.selected-publication .publication-footer {
+  text-align: right;
+  margin-top: 1rem;
+}
+
+.selected-publication .publication-footer a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.selected-publication .publication-footer a:hover {
+  text-decoration: underline;
+}
