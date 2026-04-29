@@ -125,7 +125,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
 
     <div class="selected-publication-meta">
       <p>
-        Qin, L., Satriadi, K. A., <b>Liu, J.<\b>, Zhan, Y., Shao, J., Liu, P., ... & Liu, Y. (2025). Effects of interface layouts on cognitive performance for pedicle screw placement simulator in immersive environments. <em> International Journal of Human-Computer Studies</em>, 103650.
+        Qin, L., Satriadi, K.A., <b>Liu, J.</b>, Zhan, Y., Shao, J., Liu, P., Chen, Z. and Liu, Y., 2025. Effects of interface layouts on cognitive performance for pedicle screw placement simulator in immersive environments. <em>International Journal of Human-Computer Studies</em>, 103650.
       </p>
 
       <div class="selected-publication-links">
