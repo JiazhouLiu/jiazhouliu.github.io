@@ -878,3 +878,6 @@ border-radius: .1em;
     content: "\f4be";
 }
 
+.fa-role:before{
+  content: "\f508";
+}
