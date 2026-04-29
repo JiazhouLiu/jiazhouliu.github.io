@@ -94,7 +94,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
 ## Selected Publications
 <div class="selected-publication">
   <div class="selected-publication-image">
-    <img src="/images/ICU-Nurses.png" alt="Nurses delivering handover in an ICU room">
+    <img src="/images/publications/handover.jpg" alt="Nurses delivering handover in an ICU room">
   </div>
   <div class="selected-publication-body">
     <div class="selected-publication-main">
@@ -203,35 +203,36 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
 
 <div class="selected-publication">
   <div class="selected-publication-image">
-    <img src="/images/publications/teaser_brainTumour.png" alt="An overview of the workflow in our system.">
+    <img src="/images/publications/landmark_spatialMemory.png" alt="Two scenarios in which virtual views are overlaid on the physical environment.">
   </div>
   <div class="selected-publication-body">
     <div class="selected-publication-main">
       <h3 class="selected-publication-title">
         <a href="/publications/#/">
-          SAMMed-VR: Integrated Segment Anything Model in Virtual Reality for Supervised Brain Tumour Segmentation
+          Investigating the Effects of Physical Landmarks on Spatial Memory for Information Visualisation in Augmented Reality
         </a>
       </h3>
       <p class="selected-publication-summary">
-        In this work, we developed a design probe to explore how virtual reality can be used to integrate an expert-in-the-loop approach with SAM-Med3D for robust brain tumour segmentation. The imaging data of the brain and the segmented tumours are visualised in virtual reality, where experts can use analytical tools to review the segmentation. They can iteratively refine the results by selecting specific points for the AI to refine and improve the segmentation. In future work, we will collaborate with domain experts to evaluate and improve our prototype.
+        In this work, we provide the first AR study of spatial memory, comparing two different room settings with two different situated layouts of virtual targets on an abstract spatial memory task. We find that participants recall spatial patterns with greater accuracy and higher subjective ratings in a room with furniture compared to an empty room. Our findings lead to important design implications for mixed-reality user interfaces, particularly in information-rich applications like situated analytics and small-multiples information visualisation.
       </p>
       <p class="selected-publication-type">
-        <strong>Publication type:</strong> short paper.
+        <strong>Publication type:</strong> full paper.
       </p>
       <div class="selected-publication-tags">
-        <span>visualisation</span>
-        <span>brain tumour segmentation</span>
-        <span>virtual reality</span>
-        <span>3D imaging</span>
-        <span>artificial intelligence</span>
+        <span>ismar</span>
+        <span>spatial memory</span>
+        <span>immersive analytics</span>
+        <span>view management</span>
+        <span>physical landmarks</span>
       </div>
     </div>
     <div class="selected-publication-meta">
       <p>
-      Pooryousef, V., Peiris, H., Liang, H., Li, A., Chen, Z., Dwyer, T. and <b>Liu, J.</b>, SAMMed-VR: Integrated Segment Anything Model in Virtual Reality for Supervised Brain Tumour Segmentation.
+      <b>Liu, J.</b>, Satriadi, K.A., Ens, B. and Dwyer, T., 2024, October. Investigating the effects of physical landmarks on spatial memory for information visualisation in augmented reality. <em>In 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR) (pp. 289-298).</em> IEEE.
       </p>
       <div class="selected-publication-links">
-        <a href="https://www.researchgate.net/profile/Jiazhou-Liu/publication/396192974_SAMMed-VR_Integrated_Segment_Anything_Model_in_Virtual_Reality_for_Supervised_Brain_Tumour_Segmentation/links/68e0f633ffdca73694b55d78/SAMMed-VR-Integrated-Segment-Anything-Model-in-Virtual-Reality-for-Supervised-Brain-Tumour-Segmentation.pdf">PDF</a>
+        <a href="https://www.researchgate.net/profile/Jiazhou-Liu/publication/384395912_Investigating_the_Effects_of_Physical_Landmarks_on_Spatial_Memory_for_Information_Visualisation_in_Augmented_Reality/links/66f6b3def599e0392fa8f1e3/Investigating-the-Effects-of-Physical-Landmarks-on-Spatial-Memory-for-Information-Visualisation-in-Augmented-Reality.pdf">PDF</a>
+        <a href="https://doi.org/10.1109/ISMAR62088.2024.00043">DOI</a>
       </div>
     </div>
   </div>
