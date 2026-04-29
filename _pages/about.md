@@ -358,36 +358,77 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
 
 <div class="selected-publication">
   <div class="selected-publication-image">
-    <img src="/images/publications/TeaserCHI_GestureExplorer.png" alt="GestureExplorer supports immersive exploration of gesture data.">
+    <img src="/images/publications/teaser_spatialMemoryISS.png" alt="The extensive 3D space surrounding users in immersive environments allows for various display layouts. ">
   </div>
   <div class="selected-publication-body">
     <div class="selected-publication-main">
       <h3 class="selected-publication-title">
         <a href="/publications/#/">
-          GestureExplorer: Immersive Visualisation and Exploration of Gesture Data
+          Effects of Display Layout on Spatial Memory for Immersive Environments
         </a>
       </h3>
       <p class="selected-publication-summary">
-        This paper presents the design and evaluation of GestureExplorer, an Immersive Analytics tool that supports the interactive exploration, classifcation and sensemaking with large sets of 3D temporal gesture data. GestureExplorer features 3D skeletal and trajectory visualisations of gestures combined with abstract visualisations of clustered sets of gestures. By leveraging the large immersive space aforded by a Virtual Reality interface our tool allows free navigation and control of viewing perspective for users to gain a better understanding of gestures.
+        In this paper, we perform two user studies to evaluate the effects of three layouts with varying degrees of curvature around the user (flat-wall, semicircular-wraparound, and circular-wraparound) on a visuo-spatial memory task in a virtual environment. The results show that participants are able to recall spatial patterns with greater accuracy and report more positive subjective ratings using flat than circular-wraparound layouts. While we didn’t find any significant performance differences between the flat and semicircular-wraparound layouts, participants overwhelmingly preferred the semicircular-wraparound layout suggesting it is a good compromise between the two extremes of display curvature.
       </p>
       <p class="selected-publication-type">
         <strong>Publication type:</strong> full paper
       </p>
       <div class="selected-publication-tags">
-        <span>chi</span>
-        <span>gesture elicitation study</span>
-        <span>virtual reality</span>
+        <span>iss</span>
+        <span>spatial memory</span>
+        <span>spatial layout</span>
         <span>immersive analytics</span>
+        <span>virtual reality</span>
+        <span>interface design</span>
       </div>
     </div>
     <div class="selected-publication-meta">
       <p>
-      Li, A., <b>Liu, J.</b>, Cordeil, M., Topliss, J., Piumsomboon, T. and Ens, B., 2023, April. Gestureexplorer: Immersive visualisation and exploration of gesture data. <em>In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-16)</em>.
+      <b>Liu, J.</b>, Prouzeau, A., Ens, B. and Dwyer, T., 2022. Effects of display layout on spatial memory for immersive environments. <em>Proceedings of the ACM on Human-Computer Interaction, 6(ISS)</em>, pp.468-488.
       </p>
       <div class="selected-publication-links">
-        <a href="academia.edu/download/101845545/3544548.pdf">PDF</a>
-        <a href="https://doi.org/10.1145/3544548.3580678">DOI</a>
-        <a href="https://youtu.be/srKzgtYILgA?si=KqrLjG65Zgw1flwn">Video</a>
+        <a target="_blank" href="https://www.researchgate.net/profile/Jiazhou-Liu/publication/364290943_Effects_of_Display_Layout_on_Spatial_Memory_for_Immersive_Environments/links/63627376431b1f53006479db/Effects-of-Display-Layout-on-Spatial-Memory-for-Immersive-Environments.pdf">PDF</a>
+        <a target="_blank" href="https://doi.org/10.1145/3567729">DOI</a>
+        <a target="_blank" href="https://youtu.be/FQahSoF60YM">Video</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="selected-publication">
+  <div class="selected-publication-image">
+    <img src="/images/publications/Teaser_smallMultiples.png" alt="Small multiples presented in VR using a 'shelves' metaphor. ">
+  </div>
+  <div class="selected-publication-body">
+    <div class="selected-publication-main">
+      <h3 class="selected-publication-title">
+        <a href="/publications/#/">
+          Design and evaluation of interactive small multiples data visualisation in immersive spaces
+        </a>
+      </h3>
+      <p class="selected-publication-summary">
+        We explore the adaptation of 2D small-multiples visualisation on flat screens to 3D immersive spaces. We use a ”shelves” metaphor for layout of small multiples and consider a design space across a number of layout and interaction dimensions. We demonstrate the applicability of a prototype system informed by this design space to data sets from different domains. We perform two user studies comparing the effect of the shelf curvature dimension from our design space on users’ ability to perform comparison and trend analysis tasks. Our results suggest that, with fewer multiples, a flat layout is more performant despite the need for participants to walk further. With an increase in the number of multiples, this performance difference disappears due to the time participants had to spend walking. In the latter case, users prefer a semi-circular layout over either a fully surrounding or a flat arrangement.
+      </p>
+      <p class="selected-publication-type">
+        <strong>Publication type:</strong> full paper
+      </p>
+      <div class="selected-publication-tags">
+        <span>vr</span>
+        <span>small multiples visualisation</span>
+        <span>spatial layout</span>
+        <span>immersive analytics</span>
+        <span>virtual reality</span>
+        <span>data visualisation</span>
+      </div>
+    </div>
+    <div class="selected-publication-meta">
+      <p>
+      <b>Liu, J.</b>, Prouzeau, A., Ens, B. and Dwyer, T., 2020, March. Design and evaluation of interactive small multiples data visualisation in immersive spaces. <em>In 2020 IEEE conference on virtual reality and 3D user interfaces (VR) (pp. 588-597)</em>. IEEE.
+      </p>
+      <div class="selected-publication-links">
+        <a target="_blank" href="https://www.researchgate.net/profile/Arnaud-Prouzeau-2/publication/342058539_Design_and_Evaluation_of_Interactive_Small_Multiples_Data_Visualisation_in_Immersive_Spaces/links/60585320a6fdccbfeaf8504b/Design-and-Evaluation-of-Interactive-Small-Multiples-Data-Visualisation-in-Immersive-Spaces.pdf">PDF</a>
+        <a target="_blank" href="https://doi.org/10.1109/VR46266.2020.00081">DOI</a>
+        <a target="_blank" href="https://youtu.be/wPyaao3bqeE">Video</a>
       </div>
     </div>
   </div>
