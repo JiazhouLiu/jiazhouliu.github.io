@@ -56,7 +56,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
     <div class="project-content">
       <h3>AI-facilitated AR Handover System for ICU Nurses</h3>
       <p>
-        This research addresses the challenges in the nurse handover process in critical care settings by designing an integrated solution that leverages immersive and AI technologies. We propose an integrated approach consisting of the following innovative concepts: in-situ augmented reality (AR) overlays, an AI-assisted conversational agent, and a cross-reality collaborative model.
+        This project addresses the challenges in the nurse handover process in critical care settings by designing an integrated solution that leverages immersive and AI technologies. We propose an integrated approach consisting of the following innovative concepts: in-situ augmented reality (AR) overlays, an AI-assisted conversational agent, and a cross-reality collaborative model.
       </p>
     </div>
   </div>
@@ -87,6 +87,61 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
 
   <div class="projects-footer">
     <a href="https://jiazhouliu.github.io/projects">All projects</a>
+  </div>
+
+</div>
+
+## Selected Publications
+<div class="selected_publication">
+
+  <div class="selected-publication-image">
+    <img src="/images/publications/mariochart.jpg" alt="MarioChart publication preview">
+  </div>
+
+  <div class="selected-publication-body">
+    <div class="selected-publication-main">
+      <h3 class="selected-publication-title">
+        <a href="/publications/mariochart/">
+          MarioChart: Autonomous Tangibles as Active Proxy Interfaces for Embodied Casual Data Exploration
+        </a>
+      </h3>
+
+      <p class="selected-publication-summary">
+        We introduce the notion of an Active Proxy interface, i.e. tangibles as proxies for
+        a physical data referent, supporting interaction through active manipulation.
+        We realise an active proxy interface system for data visualisation, MarioChart,
+        using robot carts relocating themselves on a tabletop, e.g., to align with their
+        data referents in a map or other visual layout.
+      </p>
+
+      <p class="selected-publication-type">
+        <strong>Publication type:</strong> full paper.
+      </p>
+
+      <div class="selected-publication-tags">
+        <span>chi</span>
+        <span>dashboard</span>
+        <span>scale model</span>
+        <span>situated visualization</span>
+        <span>tangible</span>
+        <span>active proxy</span>
+      </div>
+    </div>
+
+    <div class="selected-publication-meta">
+      <p>
+        Dai, S., Satriadi, K. A., Smiley, J., Ens, B., Besançon, L., &amp; Dwyer, T.
+        (2026, April). MarioChart: Autonomous Tangibles as Active Proxy Interfaces for
+        Embodied Casual Data Exploration. In <em>Proceeding 2026 CHI Conference on Human
+        Factors in Computing Systems</em>.
+      </p>
+
+      <div class="selected-publication-links">
+        <a href="/papers/mariochart.pdf">PDF</a>
+        <a href="#">DOI</a>
+        <a href="/publications/mariochart/">Project page</a>
+      </div>
+    </div>
   </div>
 
 </div>
