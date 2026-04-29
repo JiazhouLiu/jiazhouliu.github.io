@@ -576,6 +576,10 @@ border-radius: .1em;
   text-decoration: none !important;
 }
 
+#recent-publications{
+  margin-top: 2rem;
+}
+
 .featured-projects {
   margin: 0 0 2rem 0;
 }
