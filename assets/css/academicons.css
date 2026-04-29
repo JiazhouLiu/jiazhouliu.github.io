@@ -580,7 +580,6 @@ border-radius: .1em;
   margin: 0 0 2rem 0;
 }
 
-
 .featured-projects .project-row {
   background: #fff;
   border-radius: 20px;
@@ -638,7 +637,7 @@ border-radius: .1em;
   background: #fff;
   border-radius: 20px;
   padding: 1rem;
-  margin: 0 0 3rem 0;
+  margin: 0 0 2rem 0;
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
