@@ -3,6 +3,7 @@ title: 'AI-facilitated AR Handover System for ICU Nurses'
 status: 'Ongoing'
 fundedBy: 'Monash FIT Seed Grant 2025'
 permalink: /projects/handover/
+excerpt: 'testtesttest'
 tags:
   - digital health
   - augmented reality
@@ -17,11 +18,14 @@ These issues lead to cognitive overload, critical information omissions, and hei
 
 This research addresses the challenges in the nurse handover process in critical care settings by designing an integrated solution that leverages immersive and AI technologies. We propose an integrated approach consisting of the following innovative concepts: in-situ augmented reality (AR) overlays, an AI-assisted conversational agent, and a cross-reality collaborative model.
 
-In-situ augmented reality overlays
+**In-situ augmented reality overlays**
+
 The project will mainly explore the use of embedded visualisations (e.g., vital sign trends and digital anatomical models) in 3D space, displayed through augmented reality headsets at the bedside, to ensure data integrity over time and between nurses, assisting nurses in promptly identifying abnormal conditions, and enhancing clinical decision-making.
 
-AI-facilitated conversational agent
+**AI-facilitated conversational agent**
+
 This project will further explore the application of a generative AI-facilitated conversational agent to improve communication during nurse handovers, leveraging conversational context and aligning with the ISBAR framework. This research direction aims to design a system module to ease cognitive load during handovers, helping outgoing nurses recall key points and incoming nurses retain what was communicated.
 
-Cross-reality collaborative model
+**Cross-reality collaborative model**
+
 The project will also explore leveraging augmented reality to develop a cross-reality system that supports collaborative but remote and even asynchronous nurse handovers. Traditional handover requires nurses to be co-located, while AR and AI could enable asynchronous information exchange (e.g., pre-recorded handover or a remote handover process for patient transfer) for shared understanding and flexible communication during the transition of care.
