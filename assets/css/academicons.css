@@ -742,3 +742,77 @@ border-radius: .1em;
 .publication-footer a:hover {
   text-decoration: underline;
 }
+
+.student-card {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 1.25rem;
+  align-items: start;
+  margin: 1.75rem 0 2rem 0;
+}
+
+.student-photo img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 999px;
+  display: block;
+}
+
+.student-name {
+  margin: 0 0 0.25rem 0;
+  font-size: 1.3rem;
+  line-height: 1.3;
+}
+
+.student-name a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.student-name a:hover {
+  text-decoration: underline;
+}
+
+.student-meta {
+  margin: 0 0 0.35rem 0;
+  font-size: 1rem;
+  color: #555;
+}
+
+.student-description {
+  margin: 0.2rem 0 0 0;
+  line-height: 1.7;
+}
+
+.student-pubs-label {
+  margin: 0.85rem 0 0.35rem 0;
+  font-weight: 600;
+}
+
+.student-pubs {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.student-pubs li {
+  margin: 0.25rem 0;
+}
+
+.students-note {
+  margin-top: 2rem;
+  color: #666;
+  font-style: italic;
+}
+
+@media (max-width: 700px) {
+  .student-card {
+    grid-template-columns: 1fr;
+    gap: 0.9rem;
+  }
+
+  .student-photo img {
+    width: 88px;
+    height: 88px;
+  }
+}
