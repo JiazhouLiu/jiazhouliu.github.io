@@ -20,12 +20,10 @@ Guided by these needs, we developed Productive Discussion AI System (ProDAIS), a
 In Phase 2, the study focused on the iterative design and evaluation of ProDAIS through a user study, examining perceived usability (System Usability Scale, SUS), cognitive load (NASA-TLX), and students’ perceived support toward the FGPDs goals. Results indicate high perceived usability (SUS score: 78.5), low cognitive load, and consistent perceived support for participation balance and time management. Overall, the findings suggest that ProDAIS demonstrates how GenAI can facilitate productive group discussion by making participation balance and pacing visible.
 
 <img src="/images/publications/ProDAIS_workflow.png" alt="ProDAIS workflow" width="800" height="445">
-
 *Figure 1: System Workflow*
 
 <img src="/images/publications/ProDAIS_system.png" alt="ProDAIS System" width="800" height="445">
-
 *Figure 2: System Interface*
 
-### Publication
+## Publication
 <a href="/files/ProDAIS_Preprint.pdf">Preprint</a>
