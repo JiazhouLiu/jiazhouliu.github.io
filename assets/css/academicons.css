@@ -881,3 +881,27 @@ border-radius: .1em;
 .fa-role:before{
   content: "\f508";
 }
+
+.tag {
+    --bulma-tag-h: var(--bulma-scheme-h);
+    --bulma-tag-s: var(--bulma-scheme-s);
+    --bulma-tag-background-l: var(--bulma-background-l);
+    --bulma-tag-background-l-delta: 0%;
+    --bulma-tag-hover-background-l-delta: var(--bulma-hover-background-l-delta);
+    --bulma-tag-active-background-l-delta: var(--bulma-active-background-l-delta);
+    --bulma-tag-color-l: var(--bulma-text-l);
+    --bulma-tag-radius: var(--bulma-radius);
+    --bulma-tag-delete-margin: 1px;
+    align-items: center;
+    background-color: hsl(var(--bulma-tag-h), var(--bulma-tag-s), calc(var(--bulma-tag-background-l) + var(--bulma-tag-background-l-delta)));
+    border-radius: var(--bulma-radius);
+    color: hsl(var(--bulma-tag-h), var(--bulma-tag-s), var(--bulma-tag-color-l));
+    display: inline-flex;
+    font-size: var(--bulma-size-small);
+    height: 2em;
+    justify-content: center;
+    line-height: 1.5;
+    padding-left: .75em;
+    padding-right: .75em;
+    white-space: nowrap;
+}
