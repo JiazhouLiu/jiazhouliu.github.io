@@ -38,12 +38,12 @@ Li, M., Zhang, P., **Liu, J.**, Haryanto, A., Satriadi, K.A., Nguyen, T., Mehta,
 
 ## Student Projects
   - **Toward a User-Informed AR System for ICU Nurse Handover: A Qualitative Exploratory Study**
-    - Monash Master's Minor Thesis Project. **Completed**{: .tag} [Final Thesis](/files/BaoNgocTruong-JiazhouLiu-Thesis.pdf)
+    - **Completed**{: .tag} Monash Master's Minor Thesis Project.  [Final Thesis](/files/BaoNgocTruong-JiazhouLiu-Thesis.pdf)
   - **HandovAR: A Framework of Collaborative ICU Nurse Handover System via Mixed Reality**
-    - Monash Master's Minor Thesis Project. **Ongoing**{: .tag} 
+    - **Ongoing**{: .tag} Monash Master's Minor Thesis Project.  
   - **Supporting Nurse Handover Procedures Using Immersive Display Technologies**
-    - Monash Honours Project. **Ongoing**{: .tag} 
+    - **Ongoing**{: .tag} Monash Honours Project. 
 
 ## External Funded Projects
   - **Improving Emergency Response Handover with AI and Augmented Reality**
-    - ARC DECRA 2027 **Under Review**{: .tag} 
+    - **Under Review**{: .tag} ARC DECRA 2027  
