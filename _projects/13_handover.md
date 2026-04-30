@@ -37,9 +37,9 @@ The project will also explore leveraging augmented reality to develop a cross-re
 Li, M., Zhang, P., **Liu, J.**, Haryanto, A., Satriadi, K.A., Nguyen, T., Mehta, D., Lokmic-Tomkins, Z. and Dwyer, T., 2026. HandovAR: Towards AR and AI Support for ICU Nurse Handover. [Publication Link](/publication/handoverWorkshopPaper)
 
 ## Student Projects
-**Toward a User-Informed AR System for ICU Nurse Handover: A Qualitative Exploratory Study** - Monash Master's Minor Thesis
-**HandovAR: A Framework of Collaborative ICU Nurse Handover System via Mixed Reality** - Monash Master's Minor Thesis
-**Supporting Nurse Handover Procedures Using Immersive Display Technologies** - Monash Honours Degree
+  - **Toward a User-Informed AR System for ICU Nurse Handover: A Qualitative Exploratory Study** - Monash Master's Minor Thesis
+  - **HandovAR: A Framework of Collaborative ICU Nurse Handover System via Mixed Reality** - Monash Master's Minor Thesis
+  - **Supporting Nurse Handover Procedures Using Immersive Display Technologies** - Monash Honours Degree
 
 ## External Funded Projects
 **Improving Emergency Response Handover with AI and Augmented Reality** - ARC DECRA 2027 (Under Review)
