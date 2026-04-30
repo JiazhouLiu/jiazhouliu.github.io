@@ -22,7 +22,7 @@ We designed and implemented proof-of-concept prototypes that combine AI-assisted
 Feedback from industry stakeholders confirmed the strong potential of this approach to enable earlier risk detection, reduce reliance on manual inspections, improve reporting accuracy, and support workforce training, contributing to safer and more efficient high-rise construction practices.
 
 ## Publication
-**Liu, J.**, Rao, A. S., Ke, F., Dwyer, T., Tag, B., \& Delir Haghighi, P. (2024, October). AR-Facilitated Safety Inspection and Fall Hazard Detection on Construction Sites. *In 2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 12-14)*. IEEE.
+**Liu, J.**, Rao, A. S., Ke, F., Dwyer, T., Tag, B., & Delir Haghighi, P. (2024, October). AR-Facilitated Safety Inspection and Fall Hazard Detection on Construction Sites. *In 2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 12-14)*. IEEE. [Publication Link]()
 
 
 ## Building 4.0 CRC PhD Scholarship Project (#29)
