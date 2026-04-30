@@ -24,8 +24,10 @@ Feedback from industry stakeholders confirmed the strong potential of this appro
 ## Publication
 **Liu, J.**, Rao, A. S., Ke, F., Dwyer, T., Tag, B., \& Delir Haghighi, P. (2024, October). AR-Facilitated Safety Inspection and Fall Hazard Detection on Construction Sites. *In 2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 12-14)*. IEEE.
 
+
 ## Building 4.0 CRC PhD Scholarship Project (#29)
 **PhD candidate**: <a target="_blank" href="https://building4pointzero.org/people/fucai-ke/">Fucai Ke</a>
+
 
 ## External Website and Resources
 <a target="_blank" href="https://building4pointzero.org/wp-content/uploads/2026/02/Project-29-Final-Report_Final-public-version.pdf">Building 4.0 CRC Final Report</a>
