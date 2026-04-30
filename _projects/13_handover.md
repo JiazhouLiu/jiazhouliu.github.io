@@ -33,6 +33,9 @@ This project will further explore the application of a generative AI-facilitated
 
 The project will also explore leveraging augmented reality to develop a cross-reality system that supports collaborative but remote and even asynchronous nurse handovers. Traditional handover requires nurses to be co-located, while AR and AI could enable asynchronous information exchange (e.g., pre-recorded handover or a remote handover process for patient transfer) for shared understanding and flexible communication during the transition of care.
 
+## Project Collaborator
+  - Monash School of Nursing and Midwifery: [Associate Professor Zerina Lokmic-Tomkins](https://www.monash.edu/medicine/nursing/about/staff/zerina-tomkins) & [Trung Minh Nguyen](https://www.monash.edu/medicine/nursing/about/staff/trung-minh-nguyen)
+
 ## Publications
 Li, M., Zhang, P., **Liu, J.**, Haryanto, A., Satriadi, K.A., Nguyen, T., Mehta, D., Lokmic-Tomkins, Z. and Dwyer, T., 2026. HandovAR: Towards AR and AI Support for ICU Nurse Handover. [Publication Link](/publication/handoverWorkshopPaper)
 
