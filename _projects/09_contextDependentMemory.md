@@ -11,3 +11,6 @@ tags:
   - context-dependent memory
   - situated visualisation
 ---
+
+
+<img src="/images/elementor-placeholder-image.png" alt="">

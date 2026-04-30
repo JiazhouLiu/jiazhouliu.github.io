@@ -12,3 +12,6 @@ tags:
   - artificial intelligence
   - literature review
 ---
+
+
+<img src="/images/elementor-placeholder-image.png" alt="">
