@@ -12,7 +12,7 @@ tags:
   - artificial intelligence
 ---
 
-<img src="/images/publications/teaser_brainTumour.png" alt="Brain Tumour Segmentation Tool" width="800" height="481">
+<img src="/images/publications/teaser_brainTumour.png" alt="Brain Tumour Segmentation Tool">
 
 Due to their complex and heterogeneous nature, brain tumours pose significant challenges in diagnosis and treatment. Traditional methods for tumour segmentation in medical imaging, particularly Magnetic Resonance Imaging (MRI), often require manual intervention for interpreting medical scans, such as medical experts manually annotating scans by marking areas of interest like tumours or lesions.
 
@@ -22,7 +22,7 @@ We propose to streamline this tedious manual process by introducing a deep learn
 
 The proposed approach comprises two components, namely, a deep learning model implementation and a visualisation component. Deep learning model implementation involves training state-of-the-art deep learning models on large-scale MRI datasets annotated by expert radiologists. These models will be designed to accurately segment various tumour classes, including enhanced tumour, non-enhancing tumour, and edema regions. We will leverage advanced deep learning architectures and techniques such as convolutional neural networks (CNNs), attention mechanisms, and transfer learning to enhance the segmentation accuracy and robustness of the proposed deep learning model.
 
-<img src="/images/publications/AI-facilitated-Brain-Tumour-3.png" alt="Brain Tumour Segmentation Tool Screenshots" width="800" height="348">
+<img src="/images/publications/AI-facilitated-Brain-Tumour-3.png" alt="Brain Tumour Segmentation Tool Screenshots">
 
 Recent studies have shown the potential use of Augmented Reality (AR) to display 3D visualisations in the medical field. Inspired by those works, we will develop an innovative pipeline for 3D visualisation of segmented tumour regions alongside the original MRI scans. This will enable clinicians to analyse tumour characteristics comprehensively and interact with 3D volume data naturally, leading to more informed decision-making in diagnosis and treatment planning.
 
