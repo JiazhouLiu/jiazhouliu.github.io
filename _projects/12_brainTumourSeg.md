@@ -30,4 +30,4 @@ Recent studies have shown the potential use of Augmented Reality (AR) to display
 Pooryousef, V., Peiris, H., Liang, H., Li, A., Chen, Z., Dwyer, T. and **Liu, J.**, (2025 Oct), SAMMed-VR: Integrated Segment Anything Model in Virtual Reality for Supervised Brain Tumour Segmentation. [Publication Link](/publication/sammedvr)
 
 ## Protoype Video
-[Video Link](https://youtu.be/bNXE739Gef0)
+[Video Link](https://youtu.be/bNXE739Gef0){: target="_blank"}
