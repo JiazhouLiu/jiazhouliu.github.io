@@ -42,4 +42,4 @@ Li, M., Zhang, P., **Liu, J.**, Haryanto, A., Satriadi, K.A., Nguyen, T., Mehta,
   - **Supporting Nurse Handover Procedures Using Immersive Display Technologies** - Monash Honours Degree
 
 ## External Funded Projects
-**Improving Emergency Response Handover with AI and Augmented Reality** - ARC DECRA 2027 (Under Review)
+  - **Improving Emergency Response Handover with AI and Augmented Reality** - ARC DECRA 2027 (Under Review)
