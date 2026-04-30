@@ -35,6 +35,7 @@ The project will also explore leveraging augmented reality to develop a cross-re
 
 ## Project Collaborator
   - Monash School of Nursing and Midwifery: [Associate Professor Zerina Lokmic-Tomkins](https://www.monash.edu/medicine/nursing/about/staff/zerina-tomkins) & [Trung Minh Nguyen](https://www.monash.edu/medicine/nursing/about/staff/trung-minh-nguyen)
+  - Monash Augmented Intelligence and Multimodal Analytics (AIM) for Health Lab: [Deval Mehta](https://research.monash.edu/en/persons/deval-mehta/)
 
 ## Publications
 Li, M., Zhang, P., **Liu, J.**, Haryanto, A., Satriadi, K.A., Nguyen, T., Mehta, D., Lokmic-Tomkins, Z. and Dwyer, T., 2026. HandovAR: Towards AR and AI Support for ICU Nurse Handover. [Publication Link](/publication/handoverWorkshopPaper)
