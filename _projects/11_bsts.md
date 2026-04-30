@@ -22,4 +22,4 @@ Simulation-based training plays a critical role in preparing emergency service w
 The potential impact of BSTS lies in its ability to transform how behavioural skills are taught and assessed in emergency services education. By integrating conversational intelligence with immersive embodiment, the system offers scalable, repeatable, and authentic training experiences that can complement existing curricula and reduce reliance on resource-intensive simulations. In the longer term, such systems could support continuous professional development, standardised assessment of communication competencies, and more resilient workforce training. Ultimately, BSTS aims to improve not only learner confidence and competence, but also the quality of patient care and safety outcomes in high-pressure, real-world environments.
 
 
-<img src="/images/projects/Paramedic-Students-2.jpg" alt="Behavioural Skills Training System" width="800" height="419">
+<img src="/images/projects/Paramedic-Students-2.jpg" alt="Behavioural Skills Training System">

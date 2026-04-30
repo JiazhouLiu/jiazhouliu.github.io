@@ -28,4 +28,4 @@ By integrating data visualisation, workflow design, and human factors principles
   <li>Evaluate the impact of AR support on task efficiency, usability, and cognitive load compared to standard workflows.</li>
 </ul>
 
-<img src="/images/projects/SafePhARm.jpg" alt="SafePhARm" width="800" height="400">
+<img src="/images/projects/SafePhARm.jpg" alt="SafePhARm">

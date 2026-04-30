@@ -32,3 +32,14 @@ This project will further explore the application of a generative AI-facilitated
 **Cross-reality collaborative model**
 
 The project will also explore leveraging augmented reality to develop a cross-reality system that supports collaborative but remote and even asynchronous nurse handovers. Traditional handover requires nurses to be co-located, while AR and AI could enable asynchronous information exchange (e.g., pre-recorded handover or a remote handover process for patient transfer) for shared understanding and flexible communication during the transition of care.
+
+## Publications
+[Publication Link](/publication/handoverWorkshopPaper)
+
+## Student Projects
+**Toward a User-Informed AR System for ICU Nurse Handover: A Qualitative Exploratory Study** - Monash Master's Minor Thesis
+**HandovAR: A Framework of Collaborative ICU Nurse Handover System via Mixed Reality** - Monash Master's Minor Thesis
+**Supporting Nurse Handover Procedures Using Immersive Display Technologies** - Monash Honours Degree
+
+## External Funded Projects
+**Improving Emergency Response Handover with AI and Augmented Reality** - ARC DECRA 2027 (Under Review)
