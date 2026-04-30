@@ -40,3 +40,6 @@ contributions, and outcomes of this project.
 Use the results and findings of this project to continue to develop an end-to-end
 pipeline for a practical application of an LLM in an ICU environment using Even
 Realities G1 smart glasses.
+
+## Smart Glasses used in this project
+<a target="_blank" href="https://www.evenrealities.com/en-NL/g1"><img src="/images/projects/evenReality.jpg" alt="EvenReality Glasses" width="800" height="445"></a>
