@@ -85,6 +85,12 @@ publication_category:
     title: 'Journal Articles'
   other:
     title: 'Posters, Workshop Papers, & Workshop Proposals'     
+
+project_status:
+  Ongoing:
+    title: 'Ongoing Projects'
+  Completed:
+    title: 'Completed Projects'
   
 
 # Site Settings

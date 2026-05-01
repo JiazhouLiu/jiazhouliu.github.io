@@ -20,7 +20,7 @@ author_profile: true
   </div>
 </div>
 
-## Undergraduates, Masters, and Research Assistants
+## Ongoing Undergraduates and Masters
 <div class="student-card">
   <div class="student-photo">
     <img src="/images/students/anthony-wilson.jpg" alt="Anthony Wilson profile photo">
@@ -38,3 +38,5 @@ author_profile: true
     </ul>
   </div>
 </div>
+
+## Graduate Students
