@@ -355,3 +355,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+## Removed from Domain
+# @ -> v=spf1 include:_spf.wpcloud.com ~all
+# CNAME * -> jiazhouliu.com
