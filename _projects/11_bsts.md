@@ -23,3 +23,7 @@ The potential impact of BSTS lies in its ability to transform how behavioural sk
 
 
 <img src="/images/projects/Paramedic-Students-2.jpg" alt="Behavioural Skills Training System">
+
+## Student Projects
+  - **Design and Evaluation of a VR-Based Behavioural Skills Training System for Nursing Students**
+    - **Ongoing**{: .tag} Monash Advanced CS Research Project.  

@@ -31,3 +31,7 @@ Pooryousef, V., Peiris, H., Liang, H., Li, A., Chen, Z., Dwyer, T. and **Liu, J.
 
 ## Protoype Video
 [Video Link](https://youtu.be/bNXE739Gef0){: target="_blank"}
+
+## Student Projects
+  - **A Design Exploration of Manual Segmentation Techniques for Immersive 3D Visualisation of Medical Images**
+    - **Completed**{: .tag} Monash Master's Minor Thesis Project.

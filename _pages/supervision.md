@@ -11,11 +11,12 @@ author_profile: true
   </div>
   <div class="student-content">
     <h3 class="student-name">
-      <a href="https://laree07.com/">Lang Qin</a>
+      <a target="_blank" href="https://laree07.com/">Lang Qin</a>
     </h3>
     <p class="student-meta">PhD. Co-supervisor. Monash University.</p>
     <p class="student-description">
-      Impacts of Adaptive Contextual Immersive Environments in ProxSituated Data Analytics <a href="#">Project Page</a>
+      PhD Topic: Impacts of Adaptive Contextual Immersive Environments in ProxSituated Data Analytics <br>
+      **[Project Page](/projects/cdm/)**{: .tag}
     </p>
   </div>
 </div>
@@ -23,20 +24,225 @@ author_profile: true
 ## Ongoing Undergraduates and Masters
 <div class="student-card">
   <div class="student-photo">
-    <img src="/images/students/anthony-wilson.jpg" alt="Anthony Wilson profile photo">
+    <img src="/images/students/Portrait_Placeholder.png" alt="profile photo">
   </div>
   <div class="student-content">
-    <h3 class="student-name">Anthony Wilson</h3>
-    <p class="student-meta">Undergraduate Student, Research Assistant. Main supervisor. Monash University.</p>
+    <h3 class="student-name">
+      Xinyi Wang
+    </h3>
+    <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
-      Mr. Wilson develops a 3D Gaussian Splatting pipeline for 3D digitisation of Balinese temples.
+      Thesis Title: Intelligent Control and Manufacturing in the Agentic Era <br>
+      **[Project Page](/projects/vla/)**{: .tag}
     </p>
+  </div>
+</div>
 
-    <p class="student-pubs-label">Publications led by Anthony Wilson:</p>
-    <ul class="student-pubs">
-      <li><a href="#">BADHI 3DGS Pipeline</a>, published at IEEE IST 2025</li>
-    </ul>
+<div class="student-card">
+  <div class="student-photo">
+    <img src="/images/students/Jun.jpg" alt="profile photo">
+  </div>
+  <div class="student-content">
+    <h3 class="student-name">
+      <a target="_blank" href="https://www.linkedin.com/in/jun-yong-khor-7547a3296/">Jun Yong Khor</a>
+    </h3>
+    <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
+    <p class="student-description">
+      Thesis Title: Investigating Situated Visualisations of EHR Data in Immersive Spaces for ICU Nurse Handover <br>
+      **[Project Page](/projects/handover/)**{: .tag}
+    </p>
+  </div>
+</div>
+
+<div class="student-card">
+  <div class="student-photo">
+    <img src="/images/students/Portrait_Placeholder.png" alt="profile photo">
+  </div>
+  <div class="student-content">
+    <h3 class="student-name">
+      <a target="_blank" href="https://www.linkedin.com/in/xiumiao-zhang-89363036a/">Xiumiao Zhang</a>
+    </h3>
+    <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
+    <p class="student-description">
+      Thesis Title: Towards Intelligent Immersive Healthcare: A Systematic Literature Review <br>
+      **[Project Page](/projects/intelhealthcare/)**{: .tag}
+    </p>
+  </div>
+</div>
+
+<div class="student-card">
+  <div class="student-photo">
+    <img src="/images/students/Portrait_Placeholder.png" alt="profile photo">
+  </div>
+  <div class="student-content">
+    <h3 class="student-name">
+      Shuyang Yan
+    </h3>
+    <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
+    <p class="student-description">
+      Thesis Title: A Context-Aware Computing Framework for Performance Improvement in Distributed Vision-Based Augmented Reality <br>
+      **[Project Page](/projects/contextAware/)**{: .tag}
+    </p>
+  </div>
+</div>
+
+<div class="student-card">
+  <div class="student-photo">
+    <img src="/images/students/william.jpg" alt="profile photo">
+  </div>
+  <div class="student-content">
+    <h3 class="student-name">
+      <a target="_blank" href="https://www.linkedin.com/in/william-tioe/">William Tioe</a>
+    </h3>
+    <p class="student-meta">Master's Minor Thesis Student. Co-supervisor. Monash University.</p>
+    <p class="student-description">
+      Thesis Title: Fusion of Infrastructure-Based 3D Scene Reconstructions and Mobile Visual-Inertial Odometry for Drift-Resilient Indoor Augmented Reality <br>
+      **[Project Page](/projects/infrastructure/)**{: .tag}
+    </p>
+  </div>
+</div>
+
+<div class="student-card">
+  <div class="student-photo">
+    <img src="/images/students/phoebe.jpg" alt="profile photo">
+  </div>
+  <div class="student-content">
+    <h3 class="student-name">
+      <a target="_blank" href="https://www.linkedin.com/in/phoebezhangmelb/">Phoebe Zhang</a>
+    </h3>
+    <p class="student-meta">Honours. Co-supervisor. Monash University.</p>
+    <p class="student-description">
+      Thesis Title: Supporting Nurse Handover Procedures Using Immersive Display Technologies <br>
+      **[Project Page](/projects/handover/)**{: .tag}
+    </p>
+  </div>
+</div>
+
+<div class="student-card">
+  <div class="student-photo">
+    <img src="/images/students/Portrait_Placeholder.png" alt="profile photo">
+  </div>
+  <div class="student-content">
+    <h3 class="student-name">
+      Nigel Quick
+    </h3>
+    <p class="student-meta">Adv. CS Research Project. Main supervisor. Monash University.</p>
+    <p class="student-description">
+      Research Topic: Exploring Free-Sketch Stylus-Based Text Input for Mixed Reality Interfaces <br>
+      **[Project Page](/projects/stylusInput/)**{: .tag}
+    </p>
+  </div>
+</div>
+
+<div class="student-card">
+  <div class="student-photo">
+    <img src="/images/students/takshil.png" alt="profile photo">
+  </div>
+  <div class="student-content">
+    <h3 class="student-name">
+      <a target="_blank" href="https://www.linkedin.com/in/takshil-kamineni/">Takshil Kamineni</a>
+    </h3>
+    <p class="student-meta">Adv. CS Research Project. Main supervisor. Monash University.</p>
+    <p class="student-description">
+      Research Topic: Design and Evaluation of a VR-Based Behavioural Skills Training System for Nursing Students <br>
+      **[Project Page](/projects/bsts/)**{: .tag}
+    </p>
+  </div>
+</div>
+
+<div class="student-card">
+  <div class="student-photo">
+    <img src="/images/students/Portrait_Placeholder.png" alt="profile photo">
+  </div>
+  <div class="student-content">
+    <h3 class="student-name">
+      <a target="_blank" href="https://www.linkedin.com/in/anthony-yu-86b4132a2/">Anthony Yu</a>
+    </h3>
+    <p class="student-meta">Adv. CS Research Project. Co-supervisor. Monash University.</p>
+    <p class="student-description">
+      Research Topic: SafePhARm: Safe and Efficient Pharmacy Practice Through Augmented Reality <br>
+      **[Project Page](/projects/safepharm/)**{: .tag}
+    </p>
+  </div>
+</div>
+
+<div class="student-card">
+  <div class="student-photo">
+    <img src="/images/students/Portrait_Placeholder.png" alt="profile photo">
+  </div>
+  <div class="student-content">
+    <h3 class="student-name">
+      George Zhou
+    </h3>
+    <p class="student-meta">Adv. CS Research Project. Co-supervisor. Monash University.</p>
+    <p class="student-description">
+      Research Topic: Implementation and comparison of large language models for ICU notes transcription and summarization <br>
+      **[Project Page](/projects/llm4icu/)**{: .tag}
+    </p>
   </div>
 </div>
 
 ## Graduate Students
+
+<div class="student-card">
+  <div class="student-photo">
+    <img src="/images/students/Portrait_Placeholder.png" alt="profile photo">
+  </div>
+  <div class="student-content">
+    <h3 class="student-name">
+      Zihan Zhang
+    </h3>
+    <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
+    <p class="student-description">
+      Thesis Title: ProDAIS: GenAI-Facilitated Collaborative Learning System for Productive Group Discussion in Information Technology Education <br>
+      **[Project Page](/projects/prodais/)**{: .tag}
+    </p>
+  </div>
+</div>
+
+<div class="student-card">
+  <div class="student-photo">
+    <img src="/images/students/betty.jpg" alt="profile photo">
+  </div>
+  <div class="student-content">
+    <h3 class="student-name">
+      <a target="_blank" href="https://www.linkedin.com/in/betty-truong-553bbb192/">Betty (Ngoc Bao) Truong</a>
+    </h3>
+    <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
+    <p class="student-description">
+      Thesis Title: Toward a User-Informed AR System for ICU Nurse Handover: A Qualitative Exploratory Study <br>
+      **[Project Page](/projects/handover/)**{: .tag}
+    </p>
+  </div>
+</div>
+
+<div class="student-card">
+  <div class="student-photo">
+    <img src="/images/students/Portrait_Placeholder.png" alt="profile photo">
+  </div>
+  <div class="student-content">
+    <h3 class="student-name">
+      Shuxian Qi
+    </h3>
+    <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
+    <p class="student-description">
+      Thesis Title: A Design Exploration of Manual Segmentation Techniques for Immersive 3D Visualisation of Medical Images <br>
+      **[Project Page](/projects/brainTumourSeg/)**{: .tag}
+    </p>
+  </div>
+</div>
+
+<div class="student-card">
+  <div class="student-photo">
+    <img src="/images/students/Portrait_Placeholder.png" alt="profile photo">
+  </div>
+  <div class="student-content">
+    <h3 class="student-name">
+      Sakshi Jariya
+    </h3>
+    <p class="student-meta">Master's Minor Thesis Student. Co-supervisor. Monash University.</p>
+    <p class="student-description">
+      Thesis Title: Immersive Interfaces for Ureteroscopy
+    </p>
+  </div>
+</div>
