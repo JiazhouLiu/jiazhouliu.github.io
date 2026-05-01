@@ -1,6 +1,6 @@
 ---
 title: 'Intelligent Control and Manufacturing in the Agentic Era'
-status: 'Ongoing'
+status: ongoing
 fundedBy: 'Student Project'
 role: 'Project Lead'
 permalink: /projects/vla/

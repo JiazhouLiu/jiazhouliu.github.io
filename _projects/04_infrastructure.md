@@ -1,6 +1,6 @@
 ---
 title: 'Fusion of Infrastructure-Based 3D Scene Reconstructions and Mobile Visual-Inertial Odometry for Drift-Resilient Indoor Augmented Reality'
-status: 'Ongoing'
+status: ongoing
 fundedBy: 'Student Project'
 role: 'Project Co-lead'
 permalink: /projects/infrastructure/

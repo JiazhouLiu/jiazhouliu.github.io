@@ -1,6 +1,6 @@
 ---
 title: 'A Context-Aware Computing Framework for Performance Improvement in Distributed Vision-Based Augmented Reality'
-status: 'Ongoing'
+status: ongoing
 fundedBy: 'Student Project'
 role: 'Project Lead'
 permalink: /projects/contextAware/

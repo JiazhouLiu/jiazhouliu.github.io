@@ -1,6 +1,6 @@
 ---
 title: 'AI-facilitated Brain Tumour Segmentation in Immersive Environments'
-status: 'Ongoing'
+status: ongoing
 fundedBy: 'Monash FIT Seed Grant 2024'
 role: 'Project Lead'
 permalink: /projects/brainTumourSeg/

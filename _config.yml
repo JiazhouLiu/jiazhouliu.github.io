@@ -87,9 +87,9 @@ publication_category:
     title: 'Posters, Workshop Papers, & Workshop Proposals'     
 
 project_status:
-  Ongoing:
+  ongoing:
     title: 'Ongoing Projects'
-  Completed:
+  completed:
     title: 'Completed Projects'
   
 

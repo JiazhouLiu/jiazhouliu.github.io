@@ -1,6 +1,6 @@
 ---
 title: 'Exploring Free-Sketch Stylus-Based Text Input for Mixed Reality Interfaces'
-status: 'Ongoing'
+status: ongoing
 fundedBy: 'Student Project'
 role: 'Project Lead'
 permalink: /projects/stylusInput/

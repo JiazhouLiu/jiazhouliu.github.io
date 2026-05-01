@@ -1,6 +1,6 @@
 ---
 title: 'ProDAIS: GenAI-Facilitated Collaborative Learning System for Productive Group Discussion in Information Technology Education'
-status: 'Completed'
+status: completed
 fundedBy: 'Student Project'
 role: 'Project Lead'
 permalink: /projects/prodais/

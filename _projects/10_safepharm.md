@@ -1,6 +1,6 @@
 ---
 title: 'SafePhARm: Safe and Efficient Pharmacy Practice Through Augmented Reality'
-status: 'Ongoing'
+status: ongoing
 fundedBy: 'EmVis Seed Fund 2025'
 role: 'Project Co-lead'
 permalink: /projects/safepharm/
