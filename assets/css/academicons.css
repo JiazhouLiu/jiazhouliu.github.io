@@ -612,6 +612,21 @@ border-radius: .1em;
   flex: 1;
 }
 
+@media (max-width: 768px) {
+  .project-row {
+    flex-direction: column;
+  }
+
+  .project-image {
+    width: 100%;
+  }
+
+  .project-image img {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
 .project-content h3 {
   margin-top: 0;
   margin-bottom: 0.5rem;
