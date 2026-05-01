@@ -1,6 +1,6 @@
 ---
 title: 'Towards Intelligent Immersive Healthcare: A Systematic Literature Review'
-status: ongoing
+status: Ongoing
 fundedBy: 'Student Project'
 role: 'Project Lead'
 permalink: /projects/intelhealthcare/

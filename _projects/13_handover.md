@@ -1,6 +1,6 @@
 ---
 title: 'AI-facilitated AR Handover System for ICU Nurses'
-status: ongoing
+status: Ongoing
 fundedBy: 'Monash FIT Seed Grant 2025'
 role: 'Project Lead'
 permalink: /projects/handover/

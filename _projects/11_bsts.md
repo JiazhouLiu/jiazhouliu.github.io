@@ -1,6 +1,6 @@
 ---
 title: 'Behavioural Skills Training System for Emergency Services Workers'
-status: ongoing
+status: Ongoing
 fundedBy: 'Student Project'
 role: 'Project Lead'
 permalink: /projects/bsts/

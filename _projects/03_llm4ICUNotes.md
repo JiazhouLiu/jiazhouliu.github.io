@@ -1,6 +1,6 @@
 ---
 title: 'Implementation and comparison of large language models for ICU notes transcription and summarisation'
-status: ongoing
+status: Ongoing
 fundedBy: 'Student Project'
 role: 'Project Collaborator'
 permalink: /projects/llm4icu/

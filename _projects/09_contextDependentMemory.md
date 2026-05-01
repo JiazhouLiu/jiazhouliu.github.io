@@ -1,6 +1,6 @@
 ---
 title: 'Impacts of Adaptive Contextual Immersive Environments in ProxSituated Data Analytics'
-status: ongoing
+status: Ongoing
 fundedBy: 'Student Project'
 role: 'Project Collaborator'
 permalink: /projects/cdm/

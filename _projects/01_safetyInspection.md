@@ -1,6 +1,6 @@
 ---
 title: 'Real-time EH&S Intervention to Improve Site Safety'
-status: completed
+status: Completed
 fundedBy: 'Building 4.0 CRC'
 role: 'Research Fellow'
 permalink: /projects/safetyInspection/
