@@ -104,7 +104,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
   <div class="selected-publication-body">
     <div class="selected-publication-main">
       <h3 class="selected-publication-title">
-        <a href="/publications/handoverWorkshopPaper">
+        <a href="/publication/handoverWorkshopPaper">
           HandovAR: Towards AR and AI Support for ICU Nurse Handover
         </a>
       </h3>
@@ -142,7 +142,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
   <div class="selected-publication-body">
     <div class="selected-publication-main">
       <h3 class="selected-publication-title">
-        <a href="/publications/arpsp">
+        <a href="/publication/arpsp">
           Effects of interface layouts on cognitive performance for pedicle screw placement simulator in immersive environments
         </a>
       </h3>
@@ -178,7 +178,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
   <div class="selected-publication-body">
     <div class="selected-publication-main">
       <h3 class="selected-publication-title">
-        <a href="/publications/sammedvr">
+        <a href="/publication/sammedvr">
           SAMMed-VR: Integrated Segment Anything Model in Virtual Reality for Supervised Brain Tumour Segmentation
         </a>
       </h3>
@@ -215,7 +215,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
   <div class="selected-publication-body">
     <div class="selected-publication-main">
       <h3 class="selected-publication-title">
-        <a href="/publications/arlandmark">
+        <a href="/publication/arlandmark">
           Investigating the Effects of Physical Landmarks on Spatial Memory for Information Visualisation in Augmented Reality
         </a>
       </h3>
@@ -253,7 +253,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
   <div class="selected-publication-body">
     <div class="selected-publication-main">
       <h3 class="selected-publication-title">
-        <a href="/publications/arsafetyinspection">
+        <a href="/publication/arsafetyinspection">
           AR-Facilitated Safety Inspection and Fall Hazard Detection on Construction Sites
         </a>
       </h3>
@@ -292,7 +292,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
   <div class="selected-publication-body">
     <div class="selected-publication-main">
       <h3 class="selected-publication-title">
-        <a href="/publications/datadancing">
+        <a href="/publication/datadancing">
           DataDancing: An Exploration of the Design Space For Visualisation View Management for 3D Surfaces and Spaces
         </a>
       </h3>
@@ -331,7 +331,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
   <div class="selected-publication-body">
     <div class="selected-publication-main">
       <h3 class="selected-publication-title">
-        <a href="/publications/gestureExplorer">
+        <a href="/publication/gestureExplorer">
           GestureExplorer: Immersive Visualisation and Exploration of Gesture Data
         </a>
       </h3>
@@ -368,7 +368,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
   <div class="selected-publication-body">
     <div class="selected-publication-main">
       <h3 class="selected-publication-title">
-        <a href="/publications/spatialmemory">
+        <a href="/publication/spatialmemory">
           Effects of Display Layout on Spatial Memory for Immersive Environments
         </a>
       </h3>
@@ -407,7 +407,7 @@ Published at [**IEEE ISMAR 2024**](https://www.ieeeismar.net/2024/index.html){: 
   <div class="selected-publication-body">
     <div class="selected-publication-main">
       <h3 class="selected-publication-title">
-        <a href="/publications/smallmultiples">
+        <a href="/publication/smallmultiples">
           Design and evaluation of interactive small multiples data visualisation in immersive spaces
         </a>
       </h3>
