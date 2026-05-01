@@ -16,7 +16,7 @@ author_profile: true
     <p class="student-meta">PhD. Co-supervisor. Monash University.</p>
     <p class="student-description">
       PhD Topic: Impacts of Adaptive Contextual Immersive Environments in ProxSituated Data Analytics <br>
-      **[Project Page](/projects/cdm/)**{: .tag}
+      <a class="tag" href="/projects/cdm/">Project Page</a>
     </p>
   </div>
 </div>
@@ -33,7 +33,7 @@ author_profile: true
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
       Thesis Title: Intelligent Control and Manufacturing in the Agentic Era <br>
-      **[Project Page](/projects/vla/)**{: .tag}
+      <a class="tag" href="/projects/vla/">Project Page</a>
     </p>
   </div>
 </div>
@@ -49,7 +49,7 @@ author_profile: true
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
       Thesis Title: Investigating Situated Visualisations of EHR Data in Immersive Spaces for ICU Nurse Handover <br>
-      **[Project Page](/projects/handover/)**{: .tag}
+      <a class="tag" href="/projects/handover/">Project Page</a>
     </p>
   </div>
 </div>
@@ -65,7 +65,7 @@ author_profile: true
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
       Thesis Title: Towards Intelligent Immersive Healthcare: A Systematic Literature Review <br>
-      **[Project Page](/projects/intelhealthcare/)**{: .tag}
+      <a class="tag" href="/projects/intelhealthcare/">Project Page</a>
     </p>
   </div>
 </div>
@@ -81,7 +81,7 @@ author_profile: true
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
       Thesis Title: A Context-Aware Computing Framework for Performance Improvement in Distributed Vision-Based Augmented Reality <br>
-      **[Project Page](/projects/contextAware/)**{: .tag}
+      <a class="tag" href="/projects/contextAware/">Project Page</a>
     </p>
   </div>
 </div>
@@ -97,7 +97,7 @@ author_profile: true
     <p class="student-meta">Master's Minor Thesis Student. Co-supervisor. Monash University.</p>
     <p class="student-description">
       Thesis Title: Fusion of Infrastructure-Based 3D Scene Reconstructions and Mobile Visual-Inertial Odometry for Drift-Resilient Indoor Augmented Reality <br>
-      **[Project Page](/projects/infrastructure/)**{: .tag}
+      <a class="tag" href="/projects/infrastructure/">Project Page</a>
     </p>
   </div>
 </div>
@@ -113,7 +113,7 @@ author_profile: true
     <p class="student-meta">Honours. Co-supervisor. Monash University.</p>
     <p class="student-description">
       Thesis Title: Supporting Nurse Handover Procedures Using Immersive Display Technologies <br>
-      **[Project Page](/projects/handover/)**{: .tag}
+      <a class="tag" href="/projects/handover/">Project Page</a>
     </p>
   </div>
 </div>
@@ -129,7 +129,7 @@ author_profile: true
     <p class="student-meta">Adv. CS Research Project. Main supervisor. Monash University.</p>
     <p class="student-description">
       Research Topic: Exploring Free-Sketch Stylus-Based Text Input for Mixed Reality Interfaces <br>
-      **[Project Page](/projects/stylusInput/)**{: .tag}
+      <a class="tag" href="/projects/stylusInput/">Project Page</a>
     </p>
   </div>
 </div>
@@ -145,7 +145,7 @@ author_profile: true
     <p class="student-meta">Adv. CS Research Project. Main supervisor. Monash University.</p>
     <p class="student-description">
       Research Topic: Design and Evaluation of a VR-Based Behavioural Skills Training System for Nursing Students <br>
-      **[Project Page](/projects/bsts/)**{: .tag}
+      <a class="tag" href="/projects/bsts/">Project Page</a>
     </p>
   </div>
 </div>
@@ -161,7 +161,7 @@ author_profile: true
     <p class="student-meta">Adv. CS Research Project. Co-supervisor. Monash University.</p>
     <p class="student-description">
       Research Topic: SafePhARm: Safe and Efficient Pharmacy Practice Through Augmented Reality <br>
-      **[Project Page](/projects/safepharm/)**{: .tag}
+      <a class="tag" href="/projects/safepharm/">Project Page</a>
     </p>
   </div>
 </div>
@@ -177,7 +177,7 @@ author_profile: true
     <p class="student-meta">Adv. CS Research Project. Co-supervisor. Monash University.</p>
     <p class="student-description">
       Research Topic: Implementation and comparison of large language models for ICU notes transcription and summarization <br>
-      **[Project Page](/projects/llm4icu/)**{: .tag}
+      <a class="tag" href="/projects/llm4icu/">Project Page</a>
     </p>
   </div>
 </div>
@@ -195,7 +195,7 @@ author_profile: true
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
       Thesis Title: ProDAIS: GenAI-Facilitated Collaborative Learning System for Productive Group Discussion in Information Technology Education <br>
-      **[Project Page](/projects/prodais/)**{: .tag}
+      <a class="tag" href="/projects/prodais/">Project Page</a>
     </p>
   </div>
 </div>
@@ -211,7 +211,7 @@ author_profile: true
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
       Thesis Title: Toward a User-Informed AR System for ICU Nurse Handover: A Qualitative Exploratory Study <br>
-      **[Project Page](/projects/handover/)**{: .tag}
+      <a class="tag" href="/projects/handover/">Project Page</a>
     </p>
   </div>
 </div>
@@ -227,7 +227,7 @@ author_profile: true
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
       Thesis Title: A Design Exploration of Manual Segmentation Techniques for Immersive 3D Visualisation of Medical Images <br>
-      **[Project Page](/projects/brainTumourSeg/)**{: .tag}
+      <a class="tag" href="/projects/brainTumourSeg/">Project Page</a>
     </p>
   </div>
 </div>
