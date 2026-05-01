@@ -15,7 +15,7 @@ author_profile: true
     </h3>
     <p class="student-meta">PhD. Co-supervisor. Monash University.</p>
     <p class="student-description">
-      PhD Topic: Impacts of Adaptive Contextual Immersive Environments in ProxSituated Data Analytics <br>
+      PhD Topic: <b>Impacts of Adaptive Contextual Immersive Environments in ProxSituated Data Analytics</b> <br>
       <a class="tag" href="/projects/cdm/">Project Page</a>
     </p>
   </div>
@@ -32,7 +32,7 @@ author_profile: true
     </h3>
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: Intelligent Control and Manufacturing in the Agentic Era <br>
+      Thesis Title: <b>Intelligent Control and Manufacturing in the Agentic Era</b> <br>
       <a class="tag" href="/projects/vla/">Project Page</a>
     </p>
   </div>
@@ -48,7 +48,7 @@ author_profile: true
     </h3>
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: Investigating Situated Visualisations of EHR Data in Immersive Spaces for ICU Nurse Handover <br>
+      Thesis Title: <b>Investigating Situated Visualisations of EHR Data in Immersive Spaces for ICU Nurse Handover</b> <br>
       <a class="tag" href="/projects/handover/">Project Page</a>
     </p>
   </div>
@@ -64,7 +64,7 @@ author_profile: true
     </h3>
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: Towards Intelligent Immersive Healthcare: A Systematic Literature Review <br>
+      Thesis Title: <b>Towards Intelligent Immersive Healthcare: A Systematic Literature Review</b> <br>
       <a class="tag" href="/projects/intelhealthcare/">Project Page</a>
     </p>
   </div>
@@ -80,7 +80,7 @@ author_profile: true
     </h3>
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: A Context-Aware Computing Framework for Performance Improvement in Distributed Vision-Based Augmented Reality <br>
+      Thesis Title: <b>A Context-Aware Computing Framework for Performance Improvement in Distributed Vision-Based Augmented Reality</b> <br>
       <a class="tag" href="/projects/contextAware/">Project Page</a>
     </p>
   </div>
@@ -96,7 +96,7 @@ author_profile: true
     </h3>
     <p class="student-meta">Master's Minor Thesis Student. Co-supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: Fusion of Infrastructure-Based 3D Scene Reconstructions and Mobile Visual-Inertial Odometry for Drift-Resilient Indoor Augmented Reality <br>
+      Thesis Title: <b>Fusion of Infrastructure-Based 3D Scene Reconstructions and Mobile Visual-Inertial Odometry for Drift-Resilient Indoor Augmented Reality</b> <br>
       <a class="tag" href="/projects/infrastructure/">Project Page</a>
     </p>
   </div>
@@ -112,7 +112,7 @@ author_profile: true
     </h3>
     <p class="student-meta">Honours. Co-supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: Supporting Nurse Handover Procedures Using Immersive Display Technologies <br>
+      Thesis Title: <b>Supporting Nurse Handover Procedures Using Immersive Display Technologies</b> <br>
       <a class="tag" href="/projects/handover/">Project Page</a>
     </p>
   </div>
@@ -128,7 +128,7 @@ author_profile: true
     </h3>
     <p class="student-meta">Adv. CS Research Project. Main supervisor. Monash University.</p>
     <p class="student-description">
-      Research Topic: Exploring Free-Sketch Stylus-Based Text Input for Mixed Reality Interfaces <br>
+      Research Topic: <b>Exploring Free-Sketch Stylus-Based Text Input for Mixed Reality Interfaces</b> <br>
       <a class="tag" href="/projects/stylusInput/">Project Page</a>
     </p>
   </div>
@@ -144,7 +144,7 @@ author_profile: true
     </h3>
     <p class="student-meta">Adv. CS Research Project. Main supervisor. Monash University.</p>
     <p class="student-description">
-      Research Topic: Design and Evaluation of a VR-Based Behavioural Skills Training System for Nursing Students <br>
+      Research Topic: <b>Design and Evaluation of a VR-Based Behavioural Skills Training System for Nursing Students</b> <br>
       <a class="tag" href="/projects/bsts/">Project Page</a>
     </p>
   </div>
@@ -160,7 +160,7 @@ author_profile: true
     </h3>
     <p class="student-meta">Adv. CS Research Project. Co-supervisor. Monash University.</p>
     <p class="student-description">
-      Research Topic: SafePhARm: Safe and Efficient Pharmacy Practice Through Augmented Reality <br>
+      Research Topic: <b>SafePhARm: Safe and Efficient Pharmacy Practice Through Augmented Reality</b> <br>
       <a class="tag" href="/projects/safepharm/">Project Page</a>
     </p>
   </div>
@@ -176,7 +176,7 @@ author_profile: true
     </h3>
     <p class="student-meta">Adv. CS Research Project. Co-supervisor. Monash University.</p>
     <p class="student-description">
-      Research Topic: Implementation and comparison of large language models for ICU notes transcription and summarization <br>
+      Research Topic: <b>Implementation and comparison of large language models for ICU notes transcription and summarization</b> <br>
       <a class="tag" href="/projects/llm4icu/">Project Page</a>
     </p>
   </div>
@@ -194,7 +194,7 @@ author_profile: true
     </h3>
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: ProDAIS: GenAI-Facilitated Collaborative Learning System for Productive Group Discussion in Information Technology Education <br>
+      Thesis Title: <b>ProDAIS: GenAI-Facilitated Collaborative Learning System for Productive Group Discussion in Information Technology Education</b> <br>
       <a class="tag" href="/projects/prodais/">Project Page</a>
     </p>
   </div>
@@ -210,7 +210,7 @@ author_profile: true
     </h3>
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: Toward a User-Informed AR System for ICU Nurse Handover: A Qualitative Exploratory Study <br>
+      Thesis Title: <b>Toward a User-Informed AR System for ICU Nurse Handover: A Qualitative Exploratory Study</b> <br>
       <a class="tag" href="/projects/handover/">Project Page</a>
     </p>
   </div>
@@ -226,7 +226,7 @@ author_profile: true
     </h3>
     <p class="student-meta">Master's Minor Thesis Student. Main supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: A Design Exploration of Manual Segmentation Techniques for Immersive 3D Visualisation of Medical Images <br>
+      Thesis Title: <b>A Design Exploration of Manual Segmentation Techniques for Immersive 3D Visualisation of Medical Images</b> <br>
       <a class="tag" href="/projects/brainTumourSeg/">Project Page</a>
     </p>
   </div>
@@ -242,7 +242,7 @@ author_profile: true
     </h3>
     <p class="student-meta">Master's Minor Thesis Student. Co-supervisor. Monash University.</p>
     <p class="student-description">
-      Thesis Title: Immersive Interfaces for Ureteroscopy
+      Thesis Title: <b>Immersive Interfaces for Ureteroscopy</b>
     </p>
   </div>
 </div>
