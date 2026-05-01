@@ -1,0 +1,14 @@
+---
+title: "Data Science Project"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2021-csproject
+venue: "Monash University"
+date: 2021-07-01
+location: "Melbourne, Australia"
+role: "Supervisor"
+---
+**Unit Code: FIT3163**
+[University Website](https://handbook.monash.edu/2021/units/FIT3163?year=2021)
+
+This unit provides practical experience in researching, designing, developing and evaluating a non-trivial data science project. Projects involve whole or part of the data science process (visualisation, analysis, algorithms, etc.) but can also be software-based, or they may involve investigation of theory. Projects if software-based should cover analysis through design to implementation and sting. Comprehensive written documentation on the project is required. Students are assigned in groups to a project supervisor. There are no lectures in this unit, although you will be expected to attend regular meetings with your project supervisor. The unit is the first part of a 12-credit point project sequence; the second part and exit point for the project is FIT3164.
