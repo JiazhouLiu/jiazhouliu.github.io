@@ -1,0 +1,15 @@
+---
+title: "DataDancing: An Exploration of the Design Space For Visualisation View Management for 3D Surfaces and Spaces"
+collection: publications
+category: conferences
+permalink: /publication/datadancing
+excerpt: 'Recent studies have explored how users of immersive visualisation systems arrange data representations in the space around them. Generally, these have focused on placement centred at eye-level in absolute room coordinates. However, work in HCI exploring full-body interaction has identified zones relative to the user’s body with different roles. We encapsulate the possibilities for visualisation view management into a design space (called “DataDancing”). From this design space we extrapolate a variety of view management prototypes, each demonstrating a different combination of interaction techniques and space use. The prototypes are enabled by a full-body tracking system including novel devices for torso and foot interaction. We explore four of these prototypes, encompassing standard wall and table-style interaction as well as novel foot interaction, in depth through a qualitative user study. Learning from the results, we improve the interaction techniques and propose two hybrid interfaces that demonstrate interaction possibilities of the design space.'
+date: 2023-04-19
+venue: 'Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems'
+paperurl: '/files/Paper_DataDancing.pdf'
+bibtexurl: '/files/Paper_DataDancing.bib'
+citation: 'Liu, J., Ens, B., Prouzeau, A., Smiley, J., Nixon, I.K., Goodwin, S. and Dwyer, T., 2023, April. Datadancing: An exploration of the design space for visualisation view management for 3d surfaces and spaces. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-17).'
+---
+Recent studies have explored how users of immersive visualisation systems arrange data representations in the space around them. Generally, these have focused on placement centred at eye-level in absolute room coordinates. However, work in HCI exploring full-body interaction has identified zones relative to the user’s body with different roles. We encapsulate the possibilities for visualisation view management into a design space (called “DataDancing”). From this design space we extrapolate a variety of view management prototypes, each demonstrating a different combination of interaction techniques and space use. The prototypes are enabled by a full-body tracking system including novel devices for torso and foot interaction. We explore four of these prototypes, encompassing standard wall and table-style interaction as well as novel foot interaction, in depth through a qualitative user study. Learning from the results, we improve the interaction techniques and propose two hybrid interfaces that demonstrate interaction possibilities of the design space.
+
+<img src="/images/publications/DataDancing_Teaser.png" alt="DataDancing">

@@ -1,0 +1,15 @@
+---
+title: "GestureExplorer: Immersive Visualisation and Exploration of Gesture Data"
+collection: publications
+category: conferences
+permalink: /publication/gestureExplorer
+excerpt: 'This paper presents the design and evaluation of GestureExplorer, an Immersive Analytics tool that supports the interactive exploration, classification and sensemaking with large sets of 3D temporal gesture data. GestureExplorer features 3D skeletal and trajectory visualisations of gestures combined with abstract visualisations of clustered sets of gestures. By leveraging the large immersive space afforded by a Virtual Reality interface our tool allows free navigation and control of viewing perspective for users to gain a better understanding of gestures. We explored a selection of classification methods to provide an overview of the dataset that was linked to a detailed view of the data that showed different visualisation modalities. We evaluated GestureExplorer with two user studies and collected feedback from participants with diverse visualisation and analytics backgrounds. Our results demonstrated the promising capability of GestureExplorer for providing a useful and engaging experience in exploring and analysing gesture data.'
+date: 2023-04-19
+venue: 'Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems'
+paperurl: '/files/Paper_GestureExplorer.pdf'
+bibtexurl: '/files/Paper_GestureExplorer.bib'
+citation: 'Li, A., Liu, J., Cordeil, M., Topliss, J., Piumsomboon, T. and Ens, B., 2023, April. Gestureexplorer: Immersive visualisation and exploration of gesture data. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-16).'
+---
+This paper presents the design and evaluation of GestureExplorer, an Immersive Analytics tool that supports the interactive exploration, classification and sensemaking with large sets of 3D temporal gesture data. GestureExplorer features 3D skeletal and trajectory visualisations of gestures combined with abstract visualisations of clustered sets of gestures. By leveraging the large immersive space afforded by a Virtual Reality interface our tool allows free navigation and control of viewing perspective for users to gain a better understanding of gestures. We explored a selection of classification methods to provide an overview of the dataset that was linked to a detailed view of the data that showed different visualisation modalities. We evaluated GestureExplorer with two user studies and collected feedback from participants with diverse visualisation and analytics backgrounds. Our results demonstrated the promising capability of GestureExplorer for providing a useful and engaging experience in exploring and analysing gesture data.
+
+<img src="/images/publications/TeaserCHI_GestureExplorer.png" alt="GestureExplorer">

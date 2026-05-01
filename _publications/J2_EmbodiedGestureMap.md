@@ -1,0 +1,15 @@
+---
+title: "Embodied gesture interaction for immersive maps"
+collection: publications
+category: manuscripts
+permalink: /publication/embodiedgesture
+excerpt: 'With the increasing availability of head-mounted displays for virtual reality and augmented reality, we can create immersive maps in which the user is closer to the data. Embodiment is a key concept, allowing the user to act upon virtual objects in an immersive environment. Our work explores the use of embodied interaction for immersive maps. We propose four design considerations for embodied maps and embodied gesture interaction with immersive maps: object presence, consistent physics, human body skills, and direct manipulation. We present an example of an immersive flow map with a series of novel embodied gesture interactions, which adhere to the proposed design considerations. The embodied interactions allow users to directly manipulate immersive flow maps and explore origin-destination flow data in novel ways. Authors of immersive maps can use the four proposed design considerations for creating embodied gesture interactions. The discussed example interactions apply to diverse types of immersive maps and will hopefully incite others to invent more embodied interactions for immersive maps.'
+date: 2021-06-15
+venue: 'Cartography and Geographic Information Science (CGIS)'
+paperurl: '/files/Paper_embodiedMaps.pdf'
+bibtexurl: '/files/Paper_embodiedMaps.bib'
+citation: 'Newbury, R., Satriadi, K. A., Bolton, J., Liu, J., Cordeil, M., Prouzeau, A., & Jenny, B. (2021). Embodied gesture interaction for immersive maps. Cartography and Geographic Information Science, 48(5), 417–431. https://doi.org/10.1080/15230406.2021.1929492'
+---
+With the increasing availability of head-mounted displays for virtual reality and augmented reality, we can create immersive maps in which the user is closer to the data. Embodiment is a key concept, allowing the user to act upon virtual objects in an immersive environment. Our work explores the use of embodied interaction for immersive maps. We propose four design considerations for embodied maps and embodied gesture interaction with immersive maps: object presence, consistent physics, human body skills, and direct manipulation. We present an example of an immersive flow map with a series of novel embodied gesture interactions, which adhere to the proposed design considerations. The embodied interactions allow users to directly manipulate immersive flow maps and explore origin-destination flow data in novel ways. Authors of immersive maps can use the four proposed design considerations for creating embodied gesture interactions. The discussed example interactions apply to diverse types of immersive maps and will hopefully incite others to invent more embodied interactions for immersive maps.
+
+<img src="/images/publications/embodiedGesture.jpg" alt="Embodied gesture interaction for immersive maps">

@@ -1,0 +1,15 @@
+---
+title: "Investigating the effects of physical landmarks on spatial memory for information visualisation in augmented reality"
+collection: publications
+category: conferences
+permalink: /publication/arlandmark
+excerpt: 'Augmented Reality (AR) is touted to be beneficial in supporting situated information display, allowing virtual information panels to be overlaid on real-world scenes. People must then use their spatial memory to navigate among these virtual panels effectively. While spatial memory has been studied in physical environments (wall displays) and virtual reality environments, there has been little research on how physical surroundings might affect memorisation of virtual content in a mixed environment like AR. Therefore, we provide the first AR study of spatial memory, comparing two different room settings with two different situated layouts of virtual targets on an abstract spatial memory task. We find that participants recall spatial patterns with greater accuracy and higher subjective ratings in a room with furniture compared to an empty room. Our findings lead to important design implications for mixed-reality user interfaces, particularly in information-rich applications like situated analytics and small-multiples information visualisation.'
+date: 2024-10-21
+venue: '2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)'
+paperurl: '/files/Paper_Landmark Effect in AR.pdf'
+bibtexurl: '/files/Paper_Landmark Effect in AR.bib'
+citation: 'Liu, J., Satriadi, K.A., Ens, B. and Dwyer, T., 2024, October. Investigating the effects of physical landmarks on spatial memory for information visualisation in augmented reality. In 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR) (pp. 289-298). IEEE.'
+---
+Augmented Reality (AR) is touted to be beneficial in supporting situated information display, allowing virtual information panels to be overlaid on real-world scenes. People must then use their spatial memory to navigate among these virtual panels effectively. While spatial memory has been studied in physical environments (wall displays) and virtual reality environments, there has been little research on how physical surroundings might affect memorisation of virtual content in a mixed environment like AR. Therefore, we provide the first AR study of spatial memory, comparing two different room settings with two different situated layouts of virtual targets on an abstract spatial memory task. We find that participants recall spatial patterns with greater accuracy and higher subjective ratings in a room with furniture compared to an empty room. Our findings lead to important design implications for mixed-reality user interfaces, particularly in information-rich applications like situated analytics and small-multiples information visualisation.
+
+<img src="/images/publications/landmark_spatialMemory.png" alt="Landmark effect on spatial memory">
