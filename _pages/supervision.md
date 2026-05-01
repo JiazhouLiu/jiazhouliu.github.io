@@ -186,7 +186,7 @@ author_profile: true
 
 <div class="student-card">
   <div class="student-photo">
-    <img src="/images/students/Portrait_Placeholder.png" alt="profile photo">
+    <img src="/images/students/zihan.png" alt="profile photo">
   </div>
   <div class="student-content">
     <h3 class="student-name">
