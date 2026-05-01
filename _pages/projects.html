@@ -10,15 +10,15 @@ author_profile: true
 <!-- New style rendering if publication categories are defined -->
 
 {% for status in site.project_status  %}
-    {% assign title_shown = false %}
-    {% for post in site.projects reversed %}
-      {% if post.status != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single-project.html %}
-    {% endfor %}
+  {% assign title_shown = false %}
+  {% for post in site.projects reversed %}
+    {% if post.status != status[0] %}
+      {% continue %}
+    {% endif %}
+    {% unless title_shown %}
+      <h2>{{ category[1].title }}</h2><hr />
+      {% assign title_shown = true %}
+    {% endunless %}
+    {% include archive-single-project.html %}
   {% endfor %}
+{% endfor %}
