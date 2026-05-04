@@ -706,7 +706,7 @@ border-radius: .1em;
 
 .selected-publication-meta {
   font-size: 0.8rem;
-  color: #444;
+  color: inherit
 }
 
 .selected-publication-meta p {
