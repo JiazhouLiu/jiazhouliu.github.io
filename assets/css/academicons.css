@@ -585,7 +585,7 @@ border-radius: .1em;
 }
 
 .project-row {
-  background: #fff;
+  background: var(--global-base-color);
   border-radius: 20px;
   padding: 1rem;
   display: flex;
@@ -653,7 +653,7 @@ border-radius: .1em;
 }
 
 .selected-publication {
-  background: #fff;
+  background: var(--global-base-color);
   border-radius: 20px;
   padding: 1rem;
   margin: 0 0 2rem 0;
@@ -740,10 +740,10 @@ border-radius: .1em;
 .selected-publication-tags span {
   display: inline-block;
   padding: 0.35rem 0.9rem;
-  background: #f1f1f1;
+  background: var(--global-base-color);
   border-radius: 10px;
   font-size: 0.8rem;
-  color: #555;
+  color: var(--global-text-color);
 }
 
 .publication-footer {
@@ -823,7 +823,7 @@ border-radius: .1em;
 
 .students-note {
   margin-top: 2rem;
-  color: #666;
+  color: var(--global-text-color-light);
   font-style: italic;
 }
 
@@ -865,7 +865,7 @@ border-radius: .1em;
     font-size: .75rem;
     text-transform: uppercase;
     letter-spacing: 0;
-    color: #3c3c3c;
+    color: var(--global-text-color-light);
     font-weight: 600;
 }
 
@@ -897,7 +897,7 @@ border-radius: .1em;
 }
 
 .tag {
-    background-color: #eee;
+    background-color: var(--global-base-color);
     border-radius: 10px;
     display: inline-flex;
     height: 2em;
