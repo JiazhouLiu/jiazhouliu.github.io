@@ -585,7 +585,7 @@ border-radius: .1em;
 }
 
 .project-row {
-  background: var(--global-base-color);
+  background: var(--global-bg-color);
   border-radius: 20px;
   padding: 1rem;
   display: flex;
@@ -653,7 +653,7 @@ border-radius: .1em;
 }
 
 .selected-publication {
-  background: var(--global-base-color);
+  background: var(--global-bg-color);
   border-radius: 20px;
   padding: 1rem;
   margin: 0 0 2rem 0;
