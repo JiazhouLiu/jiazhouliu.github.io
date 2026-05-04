@@ -740,7 +740,7 @@ border-radius: .1em;
 .selected-publication-tags span {
   display: inline-block;
   padding: 0.35rem 0.9rem;
-  background: var(--global-base-color);
+  background: grey;
   border-radius: 10px;
   font-size: 0.8rem;
   color: var(--global-text-color);
@@ -794,7 +794,7 @@ border-radius: .1em;
 .student-meta {
   margin: 0 0 0 0 !important;
   font-size: 0.8rem !important;
-  color: #555;
+  color: inherit;
 }
 
 .student-description {
