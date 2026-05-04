@@ -897,7 +897,7 @@ border-radius: .1em;
 }
 
 .tag {
-    background-color: var(--global-base-color);
+    background-color: lightgray;
     border-radius: 10px;
     display: inline-flex;
     height: 2em;
