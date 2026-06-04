@@ -4,7 +4,7 @@ status: Completed
 fundedBy: 'PhD Project'
 role: 'PhD Student'
 permalink: /projects/fullbody/
-excerpt: 'My research investigates how people interact with information in immersive environments through spatial, embodied, and full-body interaction techniques. I study how visualizations can be arranged and managed across 3D spaces and surfaces in Virtual and Mixed Reality, and how emerging interaction modalities—including body movement, foot input, and proxemic interaction—can support data analysis and sensemaking. This work contributes design frameworks and interaction techniques that help shape the future of immersive analytics and spatial computing.'
+excerpt: 'My research investigates how people interact with information in immersive environments through spatial, embodied, and full-body interaction techniques. I study how visualizations can be arranged and managed across 3D spaces and surfaces in Virtual and Mixed Reality, and how emerging interaction modalities, including body movement, foot input, and proxemic interaction, can support data analysis and sensemaking. This work contributes design frameworks and interaction techniques that help shape the future of immersive analytics and spatial computing.'
 teaser: /images/projects/DataDancing_ProjectTeaser.png
 tags:
   - data visualisation
