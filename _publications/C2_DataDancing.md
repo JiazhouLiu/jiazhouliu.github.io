@@ -1,5 +1,5 @@
 ---
-title: "DataDancing: An Exploration of the Design Space For Visualisation View Management for 3D Surfaces and Spaces"
+title: "DataDancing: An Exploration of the Design Space for Visualisation View Management for 3D Surfaces and Spaces"
 collection: publications
 category: conferences
 permalink: /publication/datadancing
