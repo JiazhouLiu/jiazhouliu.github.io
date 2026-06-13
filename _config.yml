@@ -27,7 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Human-Computer Interaction researcher specialised in spatial computing technologies and human-centred AI."
   location         : "Melbourne, Australia"
-  employer         : "Monash University"
+  employer         : # example: "University of Melbourne"
+  job_title        : PhD Candidate
   uri              : # URL
   email            : "liujiazhou@gmail.com" 
 
