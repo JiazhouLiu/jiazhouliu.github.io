@@ -21,7 +21,7 @@ author_profile: true
   </div>
 </div>
 
-## Ongoing Undergraduates and Masters
+## Ongoing Masters and Undergraduates 
 <div class="student-card">
   <div class="student-photo">
     <img src="/images/students/Xinyi.jpg" alt="profile photo">
