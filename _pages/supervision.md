@@ -24,7 +24,7 @@ author_profile: true
 ## Ongoing Undergraduates and Masters
 <div class="student-card">
   <div class="student-photo">
-    <img src="/images/students/Portrait_Placeholder.png" alt="profile photo">
+    <img src="/images/students/Xinyi.jpg" alt="profile photo">
   </div>
   <div class="student-content">
     <h3 class="student-name">
