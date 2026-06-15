@@ -6,10 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am an early-career researcher in Human-Computer Interaction (HCI) and an Adjunct Researcher with the [Embodied Visualisation (EmVis)](https://www.monash.edu/it/hcc/embodied-visualisation) Research Group at Monash University. My research focuses on human–AI interaction in spatial environments, combining embodied interaction, immersive technologies, spatial cognition, and human-centred artificial intelligence to design intelligent systems that augment human capabilities.
 
-I am a researcher in Human-Computer Interaction (HCI) and an adjunct researcher at the [Embodied Visualisation (EmVis)](https://www.monash.edu/it/hcc/embodied-visualisation){: .no-underline} Research Group at Monash University. My research is situated at the intersection of Immersive Analytics, spatial computing, and human-centred artificial intelligence (AI). 
+My work investigates how people perceive, interact with, and collaborate with intelligent systems in physical and virtual environments. I develop and evaluate immersive and embodied interfaces that leverage virtual and augmented reality, gesture-based interaction, and AI-assisted technologies to support learning, decision-making, and collaboration. Through this research, I seek to understand human behaviour in complex interactive settings and to design interaction techniques that are intuitive, effective, and trustworthy.
 
-My research focuses on the design and evaluation of novel interaction techniques for immersive environments, with particular emphasis on human-in-the-loop systems and the integration of AI methods into immersive analytics. I lead and collaborate on a range of research projects that apply these approaches across multiple domains, including digital health, simulation-based training and education, and smart manufacturing.
+Working across healthcare, education, simulation-based training, and smart manufacturing, I employ interdisciplinary approaches to create and study human-centred technologies that facilitate productive collaboration between people and intelligent agents. My long-term research goal is to advance the design of intelligent spatial systems that seamlessly integrate human and artificial intelligence, enabling more natural, effective, and trustworthy interactions in increasingly autonomous environments.
 
 <span style="font-size: 0.9em;">
 Research Keywords: **Immersive Analytics**{: .tag} **Augmented/Virtual Reality**{: .tag} **Human-Centred AI**{: .tag} **Spatial Computing**{: .tag}
